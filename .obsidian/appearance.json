@@ -1,4 +1,6 @@
 {
   "cssTheme": "WY Console",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "showRibbon": true
 }

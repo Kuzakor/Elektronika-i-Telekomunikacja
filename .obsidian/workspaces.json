@@ -1,0 +1,234 @@
+{
+  "workspaces": {
+    "deafult": {
+      "main": {
+        "id": "9bc22f476ba399b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "aa7dc48b61cbdafd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e5a2fc72f498ed2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rzut poziomy.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rzut poziomy"
+                }
+              },
+              {
+                "id": "1c2b4a01dfe12c09",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Rzut poziomy.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Rzut poziomy.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5524dddc0b4e35d4",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc3ce393ea419fc4",
+            "type": "tabs",
+            "dimension": 51.00200400801603,
+            "children": [
+              {
+                "id": "1cf7d05e2e8558e8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Przeglądarka plików"
+                }
+              },
+              {
+                "id": "b821f9bb6bb497fd",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Szukaj"
+                }
+              },
+              {
+                "id": "fb5f9977c259ac52",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Ulubione"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3fb4c8db003f096b",
+            "type": "tabs",
+            "dimension": 48.99799599198397,
+            "children": [
+              {
+                "id": "0f440150b1b9d544",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Widok grafu"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 536.5
+      },
+      "right": {
+        "id": "25958416760222ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "60c37beefc888f26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a1e9715aa50dacf5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Spadek swobodny.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Linki zwrotne do Spadek swobodny"
+                }
+              },
+              {
+                "id": "f90c13efd07d818a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Rzut poziomy.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Łącza wychodzące z Rzut poziomy"
+                }
+              },
+              {
+                "id": "baac2ae2220f161a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tagi"
+                }
+              },
+              {
+                "id": "cb74857ce535afba",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Rzut poziomy.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Konspekt Rzut poziomy"
+                }
+              },
+              {
+                "id": "06ee5d2e1bf2e28f",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Otwórz okno szybkiego wyboru": false,
+          "graph:Otwórz graf": false,
+          "canvas:Stwórz nową tablicę": false,
+          "daily-notes:Otwórz codzienną notatkę": false,
+          "templates:Wstaw szablon": false,
+          "command-palette:Otwórz listę poleceń": false,
+          "bases:Stwórz nową bazę danych": false,
+          "copilot:Open Copilot Chat": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-git:Open Git source control": false,
+          "workspaces:Zarządzaj układami obszaru roboczego": false
+        }
+      },
+      "active": "5e5a2fc72f498ed2",
+      "mtime": "2025-09-08T16:41:00+02:00"
+    }
+  },
+  "active": "deafult"
+}

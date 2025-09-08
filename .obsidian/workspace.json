@@ -8,20 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60d8ce628622f4c4",
+            "id": "5e5a2fc72f498ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruch jednostajny przyspieszony.md",
+                "file": "Spadek swobodny.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Ruch jednostajny przyspieszony"
+              "title": "Spadek swobodny"
+            }
+          },
+          {
+            "id": "35908a30d9444595",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Rzut ukośny.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Rzut ukośny.excalidraw"
+            }
+          },
+          {
+            "id": "46d7feaed772d41f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Rzut ukośny.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Rzut ukośny.excalidraw"
+            }
+          },
+          {
+            "id": "1c2b4a01dfe12c09",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Rzut poziomy.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Rzut poziomy.excalidraw"
+            }
+          },
+          {
+            "id": "86c6f395f61723c2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Rzut poziomy.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Rzut poziomy.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -33,6 +92,7 @@
       {
         "id": "bc3ce393ea419fc4",
         "type": "tabs",
+        "dimension": 54.663991975927786,
         "children": [
           {
             "id": "1cf7d05e2e8558e8",
@@ -53,8 +113,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#algebra_liniowa",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -71,15 +131,31 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "3fb4c8db003f096b",
+        "type": "tabs",
+        "dimension": 45.336008024072214,
+        "children": [
+          {
+            "id": "0f440150b1b9d544",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Widok grafu"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 536.5
   },
   "right": {
     "id": "25958416760222ee",
@@ -95,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruch jednostajny przyspieszony.md",
+                "file": "Spadek swobodny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Ruch jednostajny przyspieszony"
+              "title": "Linki zwrotne do Spadek swobodny"
             }
           },
           {
@@ -114,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruch jednostajny przyspieszony.md",
+                "file": "Excalidraw/Rzut poziomy.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące z Ruch jednostajny przyspieszony"
+              "title": "Łącza wychodzące z Rzut poziomy.excalidraw"
             }
           },
           {
@@ -143,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruch jednostajny przyspieszony.md",
+                "file": "Excalidraw/Rzut poziomy.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Ruch jednostajny przyspieszony"
+              "title": "Konspekt Rzut poziomy.excalidraw"
             }
           },
           {
@@ -163,12 +239,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +253,31 @@
       "daily-notes:Otwórz codzienną notatkę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Zarządzaj układami obszaru roboczego": false
     }
   },
-  "active": "60d8ce628622f4c4",
+  "active": "86c6f395f61723c2",
   "lastOpenFiles": [
+    "Excalidraw/Rzut ukośny.excalidraw.md",
+    "Excalidraw/Spadek swobodny.excalidraw.md",
+    "Trygonometria trójkąta prostokątnego.md",
+    "Twierdzenia pitagorasa.md",
     "Ruch jednostajny prostoliniowy.md",
     "Ruch jednostajny przyspieszony.md",
+    "Rzut ukośny.md",
+    "Rzut poziomy.md",
+    "Rzut pionowy.md",
+    "Spadek swobodny.md",
+    "Excalidraw/Rzut poziomy.excalidraw.md",
+    "Bez nazwy 1.canvas",
+    "Bez nazwy.canvas",
+    "Drawing 2025-09-08 15.59.43.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-08 15.59.43.excalidraw.md",
+    "Excalidraw",
     "szablony/Notatka.md",
     "szablony",
     "Welcome.md"

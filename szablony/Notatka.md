@@ -1,4 +1,4 @@
 ---
 Czas stworzenia: "{{date}}"
-tags:
 ---
+#fizyka #kinematyka
