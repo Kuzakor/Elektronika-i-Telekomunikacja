@@ -1,0 +1,4 @@
+---
+Czas stworzenia: "{{date}}"
+tags:
+---

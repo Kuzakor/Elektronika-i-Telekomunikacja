@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73e8d3133f9751f4",
+            "id": "60d8ce628622f4c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Widok grafu"
+              "type": "markdown",
+              "state": {
+                "file": "Ruch jednostajny przyspieszony.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruch jednostajny przyspieszony"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#algebra_liniowa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Szukaj"
             }
           },
           {
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ruch jednostajny przyspieszony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Linki zwrotne do Ruch jednostajny przyspieszony"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ruch jednostajny przyspieszony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Łącza wychodzące z Ruch jednostajny przyspieszony"
             }
           },
           {
@@ -127,7 +134,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Tagi"
             }
           },
           {
@@ -136,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ruch jednostajny przyspieszony.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Konspekt Ruch jednostajny przyspieszony"
             }
           },
           {
@@ -155,11 +163,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e8d3133f9751f4",
+  "active": "60d8ce628622f4c4",
   "lastOpenFiles": [
+    "Ruch jednostajny prostoliniowy.md",
+    "Ruch jednostajny przyspieszony.md",
+    "szablony/Notatka.md",
+    "szablony",
     "Welcome.md"
   ]
 }
