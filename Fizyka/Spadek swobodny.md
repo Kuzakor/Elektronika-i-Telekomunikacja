@@ -4,7 +4,7 @@ Czas stworzenia: "2025-09-08"
 #fizyka #kinematyka 
 
 # Co i jak
-W spadku swobodnym występuje [[Ruch jednostajny przyspieszony]] w którym przyspieszenie (a) jest równe przyspieszeniu grawitacyjnemu (g). Wynikają więc z tego następujące wzory. Przykład: spadające jabłko.
+W spadku swobodnym występuje [[Ruch jednostajny przyspieszony]] w którym przyspieszenie (a) jest równe przyspieszeniu grawitacyjnemu (g).
 ### Rysunek
 [[Spadek swobodny.excalidraw]]
 # Wzory

@@ -9,7 +9,7 @@ Ruch w linii prostej w którym przyspieszenie (a) jest stałe. Całka [[Ruch jed
 $$
 a = \frac{V}{t}
 $$
-$$a = \frac{{V_{k}-V_{0}}}{{t}} \rightarrow V_{k}=V_{0}+at$$
+$$a = \frac{{V_{k}-V_{0}}}{{t}} \Rightarrow V_{k}=V_{0}+at$$
 $$S = \frac{at^{2}}{2} + V_{0}t+S_0$$
 # Opis
 a ] przyspieszenie

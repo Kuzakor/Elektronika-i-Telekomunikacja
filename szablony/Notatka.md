@@ -1,4 +1,4 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#fizyka #kinematyka
+#fizyka #dynamika 
