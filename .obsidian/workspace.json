@@ -8,137 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35908a30d9444595",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rzut ukośny.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Rzut ukośny.excalidraw"
-            }
-          },
-          {
-            "id": "8ae6c05cf252cf05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka/Prawa dynamiki Newtona (Siły).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Prawa dynamiki Newtona (Siły)"
-            }
-          },
-          {
-            "id": "681c9fae984b13aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka/Tarcie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tarcie"
-            }
-          },
-          {
-            "id": "c9f27894055df099",
+            "id": "52a52339b6dc4455",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f6f1a1c66334dc93",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Równia pochyła.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Równia pochyła.excalidraw"
-            }
-          },
-          {
-            "id": "870e0715fcaf7e3f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Tarcie.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tarcie.excalidraw"
-            }
-          },
-          {
-            "id": "46d7feaed772d41f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rzut ukośny.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "1c2b4a01dfe12c09",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rzut poziomy.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "86c6f395f61723c2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rzut poziomy.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Rzut poziomy.excalidraw"
+              "title": "Widok grafu"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +29,6 @@
       {
         "id": "bc3ce393ea419fc4",
         "type": "tabs",
-        "dimension": 54.663991975927786,
         "children": [
           {
             "id": "1cf7d05e2e8558e8",
@@ -162,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -191,29 +69,36 @@
               "icon": "lucide-bookmark",
               "title": "Ulubione"
             }
-          }
-        ]
-      },
-      {
-        "id": "3fb4c8db003f096b",
-        "type": "tabs",
-        "dimension": 45.336008024072214,
-        "children": [
+          },
           {
             "id": "0f440150b1b9d544",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Matematyka/Twierdzenia pitagorasa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Twierdzenia pitagorasa"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 311.5
   },
   "right": {
     "id": "25958416760222ee",
@@ -248,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Rzut poziomy.excalidraw.md",
+                "file": "Rzut ukośny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące z Rzut poziomy.excalidraw"
+              "title": "Łącza wychodzące z Rzut ukośny"
             }
           },
           {
@@ -277,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Rzut poziomy.excalidraw.md",
+                "file": "Rzut ukośny.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Rzut poziomy.excalidraw"
+              "title": "Konspekt Rzut ukośny"
             }
           },
           {
@@ -305,46 +190,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nową tablicę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Zarządzaj układami obszaru roboczego": false
     }
   },
-  "active": "c9f27894055df099",
+  "active": "1cf7d05e2e8558e8",
   "lastOpenFiles": [
-    "Fizyka/Prawa dynamiki Newtona (Siły).md",
-    "Fizyka/Tarcie.md",
-    "Fizyka/Rzut pionowy.md",
-    "Fizyka/Równia pochyła.md",
-    "Matematyka",
-    "Untitled.md",
-    "Matematyka/Trygonometria trójkąta prostokątnego.md",
-    "Fizyka/Rzut poziomy.md",
-    "Fizyka",
-    "Fizyka/Rzut ukośny.md",
-    "Excalidraw/Równia pochyła.excalidraw.md",
-    "Fizyka/Spadek swobodny.md",
     "Matematyka/Twierdzenia pitagorasa.md",
+    "Fizyka/Energia kinetyczna i potencjalna.md",
+    "Fizyka/Rzut poziomy.md",
+    "Fizyka/Rzut pionowy.md",
     "Fizyka/Ruch jednostajny prostoliniowy.md",
+    "Fizyka/Moc.md",
+    "Fizyka/Pęd.md",
+    "Fizyka/Praca.md",
+    "Fizyka/Tarcie.md",
+    "Fizyka/Spadek swobodny.md",
+    "Fizyka/Rzut ukośny.md",
     "Fizyka/Ruch jednostajny przyspieszony.md",
-    "Excalidraw/Tarcie.excalidraw.md",
-    "szablony/Notatka.md",
+    "Fizyka/Równia pochyła.md",
+    "Fizyka/Prawa dynamiki Newtona (Siły).md",
+    "Fizyka/Zasady zachowania.md",
+    "Fizyka/Energia potencjalna.md",
+    "Ruch jednostajny prostoliniowy.md",
+    "Ruch jednostajny przyspieszony.md",
+    "Rzut pionowy.md",
+    "Rzut ukośny.md",
+    "Rzut poziomy.md",
+    "Spadek swobodny.md",
+    "Twierdzenia pitagorasa.md",
     "Excalidraw/Rzut ukośny.excalidraw.md",
-    "Excalidraw/Rzut poziomy.excalidraw.md",
     "Excalidraw/Spadek swobodny.excalidraw.md",
+    "Trygonometria trójkąta prostokątnego.md",
     "Bez nazwy 1.canvas",
     "Bez nazwy.canvas",
-    "Drawing 2025-09-08 15.59.43.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-08 15.59.43.excalidraw.md",
     "Excalidraw",
-    "szablony",
-    "Welcome.md"
+    "Szablony"
   ]
 }

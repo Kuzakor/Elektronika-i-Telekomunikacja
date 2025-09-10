@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2025-09-08"
 ---
-#matemtyka #podstawy
+#matematyka #podstawy
 
 # Wzór
 Tylko trójkąt prostokątny

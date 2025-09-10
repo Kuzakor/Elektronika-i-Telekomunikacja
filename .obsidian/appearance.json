@@ -2,5 +2,6 @@
   "cssTheme": "WY Console",
   "theme": "obsidian",
   "nativeMenus": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "accentColor": "#eaf55c"
 }
