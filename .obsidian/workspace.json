@@ -11,10 +11,14 @@
             "id": "52a52339b6dc4455",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Widok grafu"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Fizyka/Rzut pionowy.md",
+                "bFile": "Fizyka/Rzut pionowy.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Rzut pionowy"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dynamika",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +98,8 @@
               "title": "Twierdzenia pitagorasa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,34 +207,34 @@
       "workspaces:Zarządzaj układami obszaru roboczego": false
     }
   },
-  "active": "1cf7d05e2e8558e8",
+  "active": "52a52339b6dc4455",
   "lastOpenFiles": [
+    "Fizyka/Rzut pionowy.md",
+    "Szablony/Notatka.md",
     "Matematyka/Twierdzenia pitagorasa.md",
     "Fizyka/Energia kinetyczna i potencjalna.md",
-    "Fizyka/Rzut poziomy.md",
-    "Fizyka/Rzut pionowy.md",
+    "Fizyka/Praca.md",
     "Fizyka/Ruch jednostajny prostoliniowy.md",
+    "Matematyka/Trygonometria trójkąta prostokątnego.md",
+    "Fizyka/Rzut ukośny.md",
+    "Fizyka/Równia pochyła.md",
     "Fizyka/Moc.md",
     "Fizyka/Pęd.md",
-    "Fizyka/Praca.md",
+    "Excalidraw/Równia pochyła.excalidraw.md",
+    "Excalidraw/Rzut poziomy.excalidraw.md",
+    "Excalidraw/Rzut ukośny.excalidraw.md",
+    "Excalidraw/Spadek swobodny.excalidraw.md",
+    "Excalidraw/Tarcie.excalidraw.md",
+    "Fizyka/Rzut poziomy.md",
     "Fizyka/Tarcie.md",
     "Fizyka/Spadek swobodny.md",
-    "Fizyka/Rzut ukośny.md",
     "Fizyka/Ruch jednostajny przyspieszony.md",
-    "Fizyka/Równia pochyła.md",
     "Fizyka/Prawa dynamiki Newtona (Siły).md",
     "Fizyka/Zasady zachowania.md",
     "Fizyka/Energia potencjalna.md",
     "Ruch jednostajny prostoliniowy.md",
     "Ruch jednostajny przyspieszony.md",
     "Rzut pionowy.md",
-    "Rzut ukośny.md",
-    "Rzut poziomy.md",
-    "Spadek swobodny.md",
-    "Twierdzenia pitagorasa.md",
-    "Excalidraw/Rzut ukośny.excalidraw.md",
-    "Excalidraw/Spadek swobodny.excalidraw.md",
-    "Trygonometria trójkąta prostokątnego.md",
     "Bez nazwy 1.canvas",
     "Bez nazwy.canvas",
     "Excalidraw",
