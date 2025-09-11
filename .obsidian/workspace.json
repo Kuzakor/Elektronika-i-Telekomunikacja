@@ -11,10 +11,24 @@
             "id": "52a52339b6dc4455",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Widok grafu"
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Równanie gazu doskonałego"
             }
           },
           {
@@ -264,6 +278,13 @@
   },
   "active": "52a52339b6dc4455",
   "lastOpenFiles": [
+    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+    "Fizyka/Termodynamika/Ciśnienie.md",
+    "Fizyka/Termodynamika/Ciepło.md",
+    "Fizyka/Termodynamika/Bilans cieplny.md",
+    "Fizyka/Dynamika/Moc.md",
+    "Fizyka/Dynamika/Pęd.md",
+    "Fizyka/Kinematyka/Rzut poziomy.md",
     "Excalidraw/Spadek swobodny.excalidraw.md",
     "Excalidraw/Rzut ukośny.excalidraw.md",
     "Excalidraw/Rzut poziomy.excalidraw.md",
@@ -271,8 +292,6 @@
     "Matematyka/Podstawy/Trygonometria trójkąta prostokątnego.md",
     "Matematyka/Podstawy/Twierdzenia pitagorasa.md",
     "Fizyka/Dynamika/Energia kinetyczna i potencjalna.md",
-    "Fizyka/Dynamika/Moc.md",
-    "Fizyka/Dynamika/Pęd.md",
     "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
     "Fizyka/Kinematyka/Ruch jednostajny przyspieszony.md",
     "Fizyka/Dynamika/Praca.md",
@@ -280,14 +299,9 @@
     "Fizyka/Dynamika/Równia pochyła.md",
     "Fizyka/Dynamika/Tarcie.md",
     "Fizyka/Kinematyka/Rzut pionowy.md",
-    "Fizyka/Kinematyka/Rzut poziomy.md",
     "Fizyka/Kinematyka/Rzut ukośny.md",
     "Fizyka/Kinematyka/Spadek swobodny.md",
     "Fizyka/Termodynamika/1 zasada termodynamiki.md",
-    "Fizyka/Termodynamika/Bilans cieplny.md",
-    "Fizyka/Termodynamika/Ciepło.md",
-    "Fizyka/Termodynamika/Ciśnienie.md",
-    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
     "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
     "Szablony/Notatka.md",
     "Matematyka/Podstawy",

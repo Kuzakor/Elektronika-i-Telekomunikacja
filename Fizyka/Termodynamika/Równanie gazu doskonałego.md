@@ -13,3 +13,5 @@ R ] stała gazowa
 T ] temperatura
 p ] [[Ciśnienie]]
 V ] objętość
+m ] masa
+mi ] masa atomowa
