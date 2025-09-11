@@ -11,14 +11,70 @@
             "id": "52a52339b6dc4455",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Widok grafu"
+            }
+          },
+          {
+            "id": "ec5cf6c671c63a92",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "aFile": "Fizyka/Rzut pionowy.md",
-                "bFile": "Fizyka/Rzut pionowy.md",
-                "aRef": ""
+                "file": "Excalidraw/Spadek swobodny.excalidraw.md"
               },
-              "icon": "diff",
-              "title": "Diff: Rzut pionowy"
+              "icon": "excalidraw-icon",
+              "title": "Spadek swobodny.excalidraw"
+            }
+          },
+          {
+            "id": "2ea0eb68de4d1d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Przemiany gazu doskonałego"
+            }
+          },
+          {
+            "id": "98f9b5a9d88424c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka/Termodynamika/Ciśnienie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ciśnienie"
             }
           }
         ]
@@ -53,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dynamika",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +154,7 @@
               "title": "Twierdzenia pitagorasa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,32 +264,36 @@
   },
   "active": "52a52339b6dc4455",
   "lastOpenFiles": [
-    "Fizyka/Rzut pionowy.md",
-    "Szablony/Notatka.md",
-    "Matematyka/Twierdzenia pitagorasa.md",
-    "Fizyka/Energia kinetyczna i potencjalna.md",
-    "Fizyka/Praca.md",
-    "Fizyka/Ruch jednostajny prostoliniowy.md",
-    "Matematyka/Trygonometria trójkąta prostokątnego.md",
-    "Fizyka/Rzut ukośny.md",
-    "Fizyka/Równia pochyła.md",
-    "Fizyka/Moc.md",
-    "Fizyka/Pęd.md",
-    "Excalidraw/Równia pochyła.excalidraw.md",
-    "Excalidraw/Rzut poziomy.excalidraw.md",
-    "Excalidraw/Rzut ukośny.excalidraw.md",
     "Excalidraw/Spadek swobodny.excalidraw.md",
-    "Excalidraw/Tarcie.excalidraw.md",
-    "Fizyka/Rzut poziomy.md",
-    "Fizyka/Tarcie.md",
-    "Fizyka/Spadek swobodny.md",
-    "Fizyka/Ruch jednostajny przyspieszony.md",
-    "Fizyka/Prawa dynamiki Newtona (Siły).md",
-    "Fizyka/Zasady zachowania.md",
-    "Fizyka/Energia potencjalna.md",
-    "Ruch jednostajny prostoliniowy.md",
-    "Ruch jednostajny przyspieszony.md",
-    "Rzut pionowy.md",
+    "Excalidraw/Rzut ukośny.excalidraw.md",
+    "Excalidraw/Rzut poziomy.excalidraw.md",
+    "Excalidraw/Równia pochyła.excalidraw.md",
+    "Matematyka/Podstawy/Trygonometria trójkąta prostokątnego.md",
+    "Matematyka/Podstawy/Twierdzenia pitagorasa.md",
+    "Fizyka/Dynamika/Energia kinetyczna i potencjalna.md",
+    "Fizyka/Dynamika/Moc.md",
+    "Fizyka/Dynamika/Pęd.md",
+    "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
+    "Fizyka/Kinematyka/Ruch jednostajny przyspieszony.md",
+    "Fizyka/Dynamika/Praca.md",
+    "Fizyka/Dynamika/Prawa dynamiki Newtona (Siły).md",
+    "Fizyka/Dynamika/Równia pochyła.md",
+    "Fizyka/Dynamika/Tarcie.md",
+    "Fizyka/Kinematyka/Rzut pionowy.md",
+    "Fizyka/Kinematyka/Rzut poziomy.md",
+    "Fizyka/Kinematyka/Rzut ukośny.md",
+    "Fizyka/Kinematyka/Spadek swobodny.md",
+    "Fizyka/Termodynamika/1 zasada termodynamiki.md",
+    "Fizyka/Termodynamika/Bilans cieplny.md",
+    "Fizyka/Termodynamika/Ciepło.md",
+    "Fizyka/Termodynamika/Ciśnienie.md",
+    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+    "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
+    "Szablony/Notatka.md",
+    "Matematyka/Podstawy",
+    "Fizyka/Dynamika",
+    "Fizyka/Kinematyka",
+    "Fizyka/Termodynamika",
     "Bez nazwy 1.canvas",
     "Bez nazwy.canvas",
     "Excalidraw",
