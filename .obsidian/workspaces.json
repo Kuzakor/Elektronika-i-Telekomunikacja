@@ -228,7 +228,241 @@
       },
       "active": "5e5a2fc72f498ed2",
       "mtime": "2025-09-08T16:41:00+02:00"
+    },
+    "osobno": {
+      "main": {
+        "id": "9bc22f476ba399b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "8dd04dfb12ebc34b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0e4749a801805cd4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Przemiany gazu doskonałego"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5524dddc0b4e35d4",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc3ce393ea419fc4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1cf7d05e2e8558e8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Przeglądarka plików"
+                }
+              },
+              {
+                "id": "b821f9bb6bb497fd",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Szukaj"
+                }
+              },
+              {
+                "id": "fb5f9977c259ac52",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Ulubione"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 311.5
+      },
+      "right": {
+        "id": "25958416760222ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "60c37beefc888f26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a1e9715aa50dacf5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Spadek swobodny.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Linki zwrotne do Spadek swobodny"
+                }
+              },
+              {
+                "id": "f90c13efd07d818a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Rzut ukośny.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Łącza wychodzące z Rzut ukośny"
+                }
+              },
+              {
+                "id": "baac2ae2220f161a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tagi"
+                }
+              },
+              {
+                "id": "cb74857ce535afba",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Rzut ukośny.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Konspekt Rzut ukośny"
+                }
+              },
+              {
+                "id": "06ee5d2e1bf2e28f",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Otwórz okno szybkiego wyboru": false,
+          "graph:Otwórz graf": false,
+          "canvas:Stwórz nową tablicę": false,
+          "templates:Wstaw szablon": false,
+          "command-palette:Otwórz listę poleceń": false,
+          "bases:Stwórz nową bazę danych": false,
+          "copilot:Open Copilot Chat": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-git:Open Git source control": false,
+          "workspaces:Zarządzaj układami obszaru roboczego": false
+        }
+      },
+      "floating": {
+        "id": "3eaf1ca90fac0163",
+        "type": "floating",
+        "children": [
+          {
+            "id": "13533ef9bfadf663",
+            "type": "window",
+            "children": [
+              {
+                "id": "00c2af37efc76bf9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "45d0cced641d97d5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Widok grafu"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 66,
+            "y": 440,
+            "width": 600,
+            "height": 600,
+            "maximize": true,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "0e4749a801805cd4",
+      "mtime": "2025-09-13T11:01:31+02:00"
     }
   },
-  "active": "deafult"
+  "active": "osobno"
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7dc48b61cbdafd",
+        "id": "8dd04dfb12ebc34b",
         "type": "tabs",
         "children": [
           {
-            "id": "52a52339b6dc4455",
+            "id": "0e4749a801805cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
+                "file": "Fizyka/Elektrostatyka/Prawo Columba.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,67 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Równanie gazu doskonałego"
+              "title": "Prawo Columba"
             }
           },
           {
-            "id": "ec5cf6c671c63a92",
+            "id": "fc6821dc91d37c79",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Spadek swobodny.excalidraw.md"
+                "file": "Excalidraw/Kondensator.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Spadek swobodny.excalidraw"
-            }
-          },
-          {
-            "id": "2ea0eb68de4d1d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Przemiany gazu doskonałego"
-            }
-          },
-          {
-            "id": "98f9b5a9d88424c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka/Termodynamika/Ciśnienie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ciśnienie"
+              "title": "Kondensator.excalidraw"
             }
           }
         ]
@@ -124,7 +76,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -142,30 +94,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Ulubione"
-            }
-          },
-          {
-            "id": "0f440150b1b9d544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematyka/Twierdzenia pitagorasa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Twierdzenia pitagorasa"
             }
           }
         ]
@@ -276,34 +204,70 @@
       "workspaces:Zarządzaj układami obszaru roboczego": false
     }
   },
-  "active": "52a52339b6dc4455",
+  "floating": {
+    "id": "3eaf1ca90fac0163",
+    "type": "floating",
+    "children": [
+      {
+        "id": "13533ef9bfadf663",
+        "type": "window",
+        "children": [
+          {
+            "id": "00c2af37efc76bf9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45d0cced641d97d5",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Widok grafu"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2513,
+        "y": 285,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0e4749a801805cd4",
   "lastOpenFiles": [
-    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
-    "Fizyka/Termodynamika/Ciśnienie.md",
-    "Fizyka/Termodynamika/Ciepło.md",
-    "Fizyka/Termodynamika/Bilans cieplny.md",
-    "Fizyka/Dynamika/Moc.md",
-    "Fizyka/Dynamika/Pęd.md",
-    "Fizyka/Kinematyka/Rzut poziomy.md",
-    "Excalidraw/Spadek swobodny.excalidraw.md",
-    "Excalidraw/Rzut ukośny.excalidraw.md",
-    "Excalidraw/Rzut poziomy.excalidraw.md",
-    "Excalidraw/Równia pochyła.excalidraw.md",
-    "Matematyka/Podstawy/Trygonometria trójkąta prostokątnego.md",
-    "Matematyka/Podstawy/Twierdzenia pitagorasa.md",
-    "Fizyka/Dynamika/Energia kinetyczna i potencjalna.md",
+    "Excalidraw/Kondensator.excalidraw.md",
+    "Excalidraw/Tarcie.excalidraw.md",
+    "Szablony/Notatka.md",
+    "Fizyka/Elektrostatyka/Kondensatory.md",
+    "Fizyka/Elektrostatyka/Prawo Columba.md",
+    "Fizyka/Elektrostatyka/Potencjał ładunku.md",
+    "Fizyka/Elektrostatyka/Natężenie elektrostatyczne.md",
+    "Excalidraw/Drawing 2025-09-13 17.57.41.excalidraw.md",
+    "Fizyka/Elektrostatyka/Napięcie.md",
     "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
+    "Fizyka/Elektrostatyka",
+    "Fizyka/Dynamika/Tarcie.md",
+    "Fizyka/Dynamika/Energia kinetyczna i potencjalna.md",
     "Fizyka/Kinematyka/Ruch jednostajny przyspieszony.md",
     "Fizyka/Dynamika/Praca.md",
-    "Fizyka/Dynamika/Prawa dynamiki Newtona (Siły).md",
-    "Fizyka/Dynamika/Równia pochyła.md",
-    "Fizyka/Dynamika/Tarcie.md",
-    "Fizyka/Kinematyka/Rzut pionowy.md",
-    "Fizyka/Kinematyka/Rzut ukośny.md",
-    "Fizyka/Kinematyka/Spadek swobodny.md",
-    "Fizyka/Termodynamika/1 zasada termodynamiki.md",
+    "Matematyka/Podstawy/Twierdzenia pitagorasa.md",
     "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
-    "Szablony/Notatka.md",
+    "Fizyka/Termodynamika/Bilans cieplny.md",
+    "Fizyka/Kinematyka/Rzut poziomy.md",
+    "Fizyka/Dynamika/Prawa dynamiki Newtona (Siły).md",
+    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+    "Fizyka/Kinematyka/Rzut pionowy.md",
+    "Fizyka/Termodynamika/Ciepło.md",
+    "Excalidraw/Spadek swobodny.excalidraw.md",
+    "Fizyka/Kinematyka/Spadek swobodny.md",
+    "Fizyka/Termodynamika/Ciśnienie.md",
+    "Fizyka/Dynamika/Moc.md",
     "Matematyka/Podstawy",
     "Fizyka/Dynamika",
     "Fizyka/Kinematyka",
