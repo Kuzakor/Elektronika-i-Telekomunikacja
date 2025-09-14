@@ -15,8 +15,14 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
+<<<<<<< Updated upstream
   "linkStrength": 0.989583333333333,
   "linkDistance": 500,
   "scale": 0.13348388671875,
+=======
+  "linkStrength": 0.901041666666667,
+  "linkDistance": 30,
+  "scale": 0.08205478322603575,
+>>>>>>> Stashed changes
   "close": true
 }
