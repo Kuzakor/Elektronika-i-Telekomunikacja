@@ -8,8 +8,8 @@ Prawo to opisuje [[Prawa dynamiki Newtona (Siły)|siłę]] działającą na oba 
 $$F = k \frac{{q_1q_{2}}}{{r^{2}}}$$
 $$k = \frac{1}{4\pi \epsilon_{0} \epsilon_{r}}$$
 # Opis
-q_1 ] pierwszy ładunek
-q_2 ] drugi ładunek
-r ] odległość między ładunkami
-ε_0 ] przenikalność elektrostatyczna próżni
-ε_r ] przenikalność elektrostatyczna substancji (domyślnie powietrze) 
+q_1 - pierwszy ładunek
+q_2 - drugi ładunek
+r - odległość między ładunkami
+ε_0 - przenikalność elektrostatyczna próżni
+ε_r - przenikalność elektrostatyczna substancji (domyślnie powietrze) 

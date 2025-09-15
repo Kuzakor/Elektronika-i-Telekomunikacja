@@ -11,5 +11,5 @@ $$
 T = \mu R
 $$
 # Opis
-μ ] współczynnik tarcia
-R ] [[Prawa dynamiki Newtona (Siły)|siła reakcji podłoża]]
+μ - współczynnik tarcia
+R - [[Prawa dynamiki Newtona (Siły)|siła reakcji podłoża]]

@@ -14,8 +14,8 @@ $$\Delta U = mc_{p}\Delta T-p\Delta V$$
 ### Przemiana izochorczyna (V = const)
 $$\Delta U = mc_{v}\Delta T$$
 # Opis
-Q ] ciepło
-W ] praca
-T ] temperatura
-c_p ] ciepło właściwe przy przemianie izobarycznej
-c_v ] ciepło właściwe przy przemianie izochorycznej
+Q - ciepło
+W - praca
+T - temperatura
+c_p - ciepło właściwe przy przemianie izobarycznej
+c_v - ciepło właściwe przy przemianie izochorycznej

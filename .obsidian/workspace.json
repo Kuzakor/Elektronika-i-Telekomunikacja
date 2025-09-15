@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka/Elektrostatyka/Prawo Columba.md",
+                "file": "Fizyka/Magnetyzm/Prawo Ampera.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prawo Columba"
+              "title": "Prawo Ampera"
+            }
+          },
+          {
+            "id": "c739c4110f3e3c24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Prawo Ampera.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Prawo Ampera.excalidraw"
             }
           },
           {
@@ -239,35 +251,37 @@
       }
     ]
   },
-  "active": "0e4749a801805cd4",
+  "active": "45d0cced641d97d5",
   "lastOpenFiles": [
-    "Excalidraw/Kondensator.excalidraw.md",
-    "Excalidraw/Tarcie.excalidraw.md",
-    "Szablony/Notatka.md",
-    "Fizyka/Elektrostatyka/Kondensatory.md",
+    "Fizyka/Magnetyzm/Prawo Ampera.md",
+    "Fizyka/Magnetyzm/Siła elektrodynamiczna.md",
+    "Fizyka/Magnetyzm/Siła Lorentza.md",
+    "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
+    "Fizyka/Dynamika/Energia kinetyczna i potencjalna.md",
+    "Fizyka/Dynamika/Tarcie.md",
+    "Fizyka/Dynamika/Równia pochyła.md",
+    "Fizyka/Dynamika/Prawa dynamiki Newtona (Siły).md",
+    "Fizyka/Dynamika/Praca.md",
+    "Fizyka/Dynamika/Pęd.md",
+    "Fizyka/Dynamika/Moc.md",
     "Fizyka/Elektrostatyka/Prawo Columba.md",
     "Fizyka/Elektrostatyka/Potencjał ładunku.md",
-    "Fizyka/Elektrostatyka/Natężenie elektrostatyczne.md",
-    "Excalidraw/Drawing 2025-09-13 17.57.41.excalidraw.md",
-    "Fizyka/Elektrostatyka/Napięcie.md",
-    "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
-    "Fizyka/Elektrostatyka",
-    "Fizyka/Dynamika/Tarcie.md",
-    "Fizyka/Dynamika/Energia kinetyczna i potencjalna.md",
-    "Fizyka/Kinematyka/Ruch jednostajny przyspieszony.md",
-    "Fizyka/Dynamika/Praca.md",
-    "Matematyka/Podstawy/Twierdzenia pitagorasa.md",
-    "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
-    "Fizyka/Termodynamika/Bilans cieplny.md",
+    "Fizyka/Elektrostatyka/Kondensatory.md",
     "Fizyka/Kinematyka/Rzut poziomy.md",
-    "Fizyka/Dynamika/Prawa dynamiki Newtona (Siły).md",
-    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+    "Fizyka/Kinematyka/Rzut ukośny.md",
+    "Fizyka/Kinematyka/Ruch jednostajny przyspieszony.md",
     "Fizyka/Kinematyka/Rzut pionowy.md",
-    "Fizyka/Termodynamika/Ciepło.md",
-    "Excalidraw/Spadek swobodny.excalidraw.md",
     "Fizyka/Kinematyka/Spadek swobodny.md",
+    "Fizyka/Termodynamika/1 zasada termodynamiki.md",
+    "Fizyka/Termodynamika/Bilans cieplny.md",
+    "Fizyka/Termodynamika/Ciepło.md",
     "Fizyka/Termodynamika/Ciśnienie.md",
-    "Fizyka/Dynamika/Moc.md",
+    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+    "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
+    "Fizyka/Elektrostatyka/Natężenie elektrostatyczne.md",
+    "Fizyka/Prąd",
+    "Fizyka/Magnetyzm",
+    "Fizyka/Elektrostatyka",
     "Matematyka/Podstawy",
     "Fizyka/Dynamika",
     "Fizyka/Kinematyka",

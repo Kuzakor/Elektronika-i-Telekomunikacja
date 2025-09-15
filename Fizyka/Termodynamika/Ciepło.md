@@ -11,8 +11,8 @@ $$
 Q = mc_{w}\Delta T = nC_{m}\Delta T
 $$
 # Opis
-m ] masa
-c_w ] ciepło właściwe
-T ] temperatura
-n ] ilość moli
-C_m ] ciepło molowe
+m - masa
+c_w - ciepło właściwe
+T - temperatura
+n - ilość moli
+C_m - ciepło molowe

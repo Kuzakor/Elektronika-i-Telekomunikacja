@@ -10,10 +10,10 @@ Kondensator składa się z dwóch płytek przechowujących ładunki. Do nich pod
 $$C = \frac{Q}{U}$$
 $$C = \epsilon_{0}\epsilon_{r} \frac{S}{d}$$
 # Opis
-Q ] ładunek
-U ] napięcie
-ε_0 ] przenikalność elektrostatyczna próżni
-ε_r ] przenikalność elektrostatyczna substancji
-S ] pole powierzchni płytek
-d ] odległość między płytkami
+Q - ładunek
+U - napięcie
+ε_0 - przenikalność elektrostatyczna próżni
+ε_r - przenikalność elektrostatyczna substancji
+S - pole powierzchni płytek
+d - odległość między płytkami
 

@@ -8,6 +8,6 @@ Jest to zmiana [[Energia kinetyczna i potencjalna|energii]]. Można też opisać
 # Wzór
 $$W = \Delta E = Fs$$
 # Opis
-E ] energia
-F ] siła
-s ] droga
+E - energia
+F - siła
+s - droga

@@ -8,8 +8,8 @@ Jest to [[Prawa dynamiki Newtona (Siły)|siła]] wywierana na daną powierzchni�
 $$p = FS$$
 $$p_h = \rho gh$$
 # Opis
-F ] siła
-S ] powierzchnia
-ρ ] gęstość substancji
-g ] przyspiesznie ziemskie
-h ] głebokość
+F - siła
+S - powierzchnia
+ρ - gęstość substancji
+g - przyspiesznie ziemskie
+h - głebokość

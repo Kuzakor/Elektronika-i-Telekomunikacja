@@ -8,10 +8,10 @@ Równanie to opisuje zachowanie gazu w idealnych warunkach. Jedna z zmiennych je
 $$nRT = pV$$
 $$n = \frac{m}{\mu}$$
 # Opis
-n ] liczba moli
-R ] stała gazowa
-T ] temperatura
-p ] [[Ciśnienie]]
-V ] objętość
-m ] masa
-mi ] masa atomowa
+n - liczba moli
+R - stała gazowa
+T - temperatura
+p - [[Ciśnienie]|ciśnienie]]
+V - objętość
+m - masa
+mi - masa atomowa

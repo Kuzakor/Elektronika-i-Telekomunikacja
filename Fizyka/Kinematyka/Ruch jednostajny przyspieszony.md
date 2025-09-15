@@ -12,10 +12,10 @@ $$
 $$a = \frac{{V_{k}-V_{0}}}{{t}} \Rightarrow V_{k}=V_{0}+at$$
 $$S = \frac{at^{2}}{2} + V_{0}t+S_0$$
 # Opis
-a ] przyspieszenie
-V ] prędkość
-V_k ] prędkość końcowa
-V_k ] prędkość początkowa
-t ] czas
-S ] przebyta droga
-S_0 ] początkowa droga
+a - przyspieszenie
+V - prędkość
+V_k - prędkość końcowa
+V_k - prędkość początkowa
+t - czas
+S - przebyta droga
+S_0 - początkowa droga

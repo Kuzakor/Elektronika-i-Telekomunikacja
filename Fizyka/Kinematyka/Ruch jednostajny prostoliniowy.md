@@ -9,7 +9,7 @@ $$
 V = \frac{s}{t}
 $$
 # Opis
-V ] prędkość
-s ] przebyta droga
-t ] czas
+V - prędkość
+s - przebyta droga
+t - czas
 

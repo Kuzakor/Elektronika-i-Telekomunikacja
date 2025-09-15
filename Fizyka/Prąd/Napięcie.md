@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2025-09-13"
 ---
-#fizyka #elektrostatyka
+#fizyka #prąd 
 # Deficnja
 Jest to różnica [[Potencjał ładunku|potencjałów]] poszczególnych ładunkóœ
 # Wzór
