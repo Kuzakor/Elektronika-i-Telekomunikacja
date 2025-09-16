@@ -11,7 +11,7 @@ $$n = \frac{m}{\mu}$$
 n - liczba moli
 R - stała gazowa
 T - temperatura
-p - [[Ciśnienie]|ciśnienie]]
+p - [[Ciśnienie|ciśnienie]]
 V - objętość
 m - masa
 mi - masa atomowa

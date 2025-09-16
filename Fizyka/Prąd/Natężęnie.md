@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-15"
 ---
 #fizyka #prąd
 # Definicja
-Jest to przepływ [[Potencjał ładunku|ładunku]] w czasie.
+Jest to przepływ ładunku w czasie.
 # Wzór
 $$I = \frac{q}{t}$$
 # Opis

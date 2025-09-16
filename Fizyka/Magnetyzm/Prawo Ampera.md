@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-15"
 ---
 #fizyka #magnetyzm
 # Definicja
-Prawo to opisuje związek między indukcją magnetyczną a [[Natężęnie|natężeniem prądu elektrycznego]]. Zachodzi reguła prawej dłoni - pole elekryczne jest ustawione prostopadle do pola magnetycznego.
+Prawo to opisuje związek między indukcją (polem) magnetyczną a [[Natężęnie|natężeniem prądu elektrycznego]]. Zachodzi reguła prawej dłoni - pole elekryczne jest ustawione prostopadle do pola magnetycznego.
 ### Rysunek
 [[Prawo Ampera.excalidraw]]
 

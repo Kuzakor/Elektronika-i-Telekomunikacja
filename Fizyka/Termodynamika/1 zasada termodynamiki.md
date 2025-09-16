@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-11"
 ---
 #fizyka #termodynamika 
 # Definicja
-- Zasada ta opisuje relację między zmianą [[Energia kinetyczna i potencjalna|energii]] wewnętrznej a dostarczonym [[Fizyka/Termodynamika/Ciepło|ciepło]] i [[Praca|pracą]] wykonaną przez [[Równanie gazu doskonałego|gaz]] Przydatne do obliczania tej pracy.
+- Zasada ta opisuje relację między zmianą [[Energia kinetyczna i potencjalna|energii]] wewnętrznej a dostarczonym [[Fizyka/Termodynamika/Ciepło|ciepłem]] i [[Praca|pracą]] wykonaną przez [[Równanie gazu doskonałego|gaz]] Przydatne do obliczania tej pracy.
 - Zmiana energii wewnętrznej ma inny wzór w zależności od rodzaju [[Przemiany gazu doskonałego|przemiany]]
 # Wzór
 $$\Delta U = Q-W$$

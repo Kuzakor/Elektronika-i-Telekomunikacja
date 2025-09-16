@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka/Podstawy/Okres i częstotliwość.md",
+                "file": "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Okres i częstotliwość"
-            }
-          },
-          {
-            "id": "ac7195f0fae482f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Ruch przyspieszony po okręgu.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ruch przyspieszony po okręgu.excalidraw"
+              "title": "Ruch jednostajny prostoliniowy"
             }
           }
         ]
@@ -241,33 +229,33 @@
   },
   "active": "1cf7d05e2e8558e8",
   "lastOpenFiles": [
-    "Fizyka/Kinematyka/Ruch przyspieszony po okręgu.md",
-    "Excalidraw/Ruch przyspieszony po okręgu.excalidraw.md",
-    "Fizyka/Kinematyka/Ruch jednostajny po okręgu.md",
-    "Fizyka/Magnetyzm/Siła Lorentza.md",
-    "Fizyka/Kinematyka/Ruch jednostajny przyspieszony.md",
-    "Fizyka/Kinematyka/Rzut pionowy.md",
-    "Fizyka/Kinematyka/Rzut ukośny.md",
-    "Fizyka/Kinematyka/Spadek swobodny.md",
-    "Fizyka/Podstawy/Okres i częstotliwość.md",
-    "Fizyka/Dynamika/Energia kinetyczna i potencjalna.md",
-    "Fizyka/Prąd/Ciepło Joule’a-Lenza.md",
-    "Fizyka/Prąd/Natężęnie.md",
     "Fizyka/Prąd/Prawo Ohma.md",
+    "Excalidraw/Ruch przyspieszony po okręgu.excalidraw.md",
+    "Matematyka/Podstawy/Twierdzenia pitagorasa.md",
+    "Fizyka/Kinematyka/Rzut poziomy.md",
+    "Fizyka/Termodynamika/Ciepło.md",
+    "Matematyka/Analiza/Pochodna.md",
+    "Matematyka/Podstawy/Trygonometria trójkąta prostokątnego.md",
+    "Fizyka/Podstawy/Wektor powierzchni.md",
+    "Matematyka/Analiza/Całka.md",
+    "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
+    "Fizyka/Termodynamika/Ciśnienie.md",
+    "Ciśnienie].md",
+    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
+    "Fizyka/Termodynamika/Bilans cieplny.md",
+    "Fizyka/Termodynamika/1 zasada termodynamiki.md",
+    "Fizyka/Prąd/Natężęnie.md",
+    "Fizyka/Prąd/Napięcie.md",
+    "Fizyka/Prąd/Ciepło Joule’a-Lenza.md",
+    "Fizyka/Podstawy/Okres i częstotliwość.md",
     "Fizyka/Magnetyzm/Strumień magnetyczny.md",
-    "Fizyka/Ruch po okręgu",
+    "Fizyka/Magnetyzm/Siła Lorentza.md",
     "Fizyka/Magnetyzm/Prawo Ampera.md",
-    "Fizyka/Magnetyzm/Prawo Faradaya.md",
-    "Fizyka/Magnetyzm/Siła elektrodynamiczna.md",
-    "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
-    "Fizyka/Elektrostatyka/Prawo Columba.md",
     "Fizyka/Elektrostatyka/Potencjał ładunku.md",
-    "Fizyka/Elektrostatyka/Natężenie elektrostatyczne.md",
-    "Fizyka/Elektrostatyka/Kondensatory.md",
-    "Fizyka/Dynamika/Równia pochyła.md",
-    "Fizyka/Dynamika/Prawa dynamiki Newtona (Siły).md",
-    "Fizyka/Dynamika/Praca.md",
-    "Fizyka/Dynamika/Pęd.md",
+    "Fizyka/Magnetyzm/Siła elektrodynamiczna.md",
+    "Fizyka/Magnetyzm/Prawo Faradaya.md",
+    "Fizyka/Kinematyka/Spadek swobodny.md",
+    "Fizyka/Ruch po okręgu",
     "Fizyka/Podstawy",
     "Matematyka/Analiza",
     "Fizyka/Prąd",

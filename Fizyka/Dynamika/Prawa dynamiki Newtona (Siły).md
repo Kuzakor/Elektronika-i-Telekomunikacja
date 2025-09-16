@@ -11,7 +11,7 @@ $$
 $$
 F_{w}= am
 $$
-- Ciężar (Q) to siła z jaką obiekt reaguje na podłoże. Siła reakcji podłoża w wiekszości przypadków jest jednakowa.g ] przyspieszenie ziemskie.
+- Ciężar (Q) to siła z jaką obiekt reaguje na podłoże. Siła reakcji podłoża w wiekszości przypadków jest jednakowa.g - przyspieszenie ziemskie.
 $$
 Q =mg
 $$
