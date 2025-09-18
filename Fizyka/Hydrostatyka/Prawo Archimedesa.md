@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-17"
 ---
 #fizyka #hydrostatyka
 # Definicja
-Prawo to opisuje [[Prawa dynamiki Newtona (Siły)]] działającą na ciało zanurzone w cieczy. Siła ta pcha je do góry (wypiera).
+Prawo to opisuje [[Prawa dynamiki Newtona (Siły)|siłę]] działającą na ciało zanurzone w cieczy. Siła ta pcha je do góry (wypiera).
 ### Rysunek
 [[Prawo Archimedesa.excalidraw]]
 # Wzór

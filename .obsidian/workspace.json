@@ -4,43 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e1df100618489699",
+        "id": "2c0606ee0968de70",
         "type": "tabs",
         "children": [
           {
-            "id": "6af8e7c4a4aa01a0",
+            "id": "15c3173e2ca8477c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka/Podstawy/Okres i częstotliwość.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Okres i częstotliwość"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Widok grafu"
             }
           },
           {
-            "id": "d4270c6419c1e1eb",
+            "id": "c540518ce1f2fca3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Prawo Archimedesa.excalidraw.md"
+                "file": "Excalidraw/Fala stojąca.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Prawo Archimedesa.excalidraw"
+              "title": "Fala stojąca.excalidraw"
             }
           }
         ]
@@ -200,38 +186,62 @@
       "bases:Stwórz nową bazę danych": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "workspaces:Zarządzaj układami obszaru roboczego": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Przeglądaj fiszki": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
-    "id": "1c81064d8161b0dd",
+    "id": "32f4d2d0d86c6673",
     "type": "floating",
     "children": [
       {
-        "id": "d01cc771832f66c3",
+        "id": "68e823889bb684cf",
         "type": "window",
         "children": [
           {
-            "id": "7081dc3dae0756dc",
+            "id": "adaf30002e03c799",
             "type": "tabs",
             "children": [
               {
-                "id": "c739c4110f3e3c24",
+                "id": "fda77476823616bd",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
+                  "type": "markdown",
+                  "state": {
+                    "file": "Fizyka/Ruch harmoniczny/U-rurka.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "U-rurka"
+                }
+              },
+              {
+                "id": "47dddb55b40e9462",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
                   "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Widok grafu"
+                  "icon": "lucide-file",
+                  "title": "Nowa karta"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 2285,
-        "y": 221,
+        "x": 2205,
+        "y": 211,
         "width": 1264,
         "height": 1000,
         "maximize": true,
@@ -239,35 +249,36 @@
       }
     ]
   },
-  "active": "1cf7d05e2e8558e8",
+  "active": "15c3173e2ca8477c",
   "lastOpenFiles": [
-    "Fizyka/Hydrostatyka/U-rurka.md",
-    "Fizyka/Hydrostatyka/Prawo Archimedesa.md",
-    "Szablony/Notatka.md",
-    "Fizyka/Dynamika/Prawa dynamiki Newtona (Siły).md",
-    "Fizyka/Dynamika/Tarcie.md",
-    "Fizyka/Dynamika/Moc.md",
-    "Excalidraw/Prawo Archimedesa.excalidraw.md",
-    "Fizyka/Bez nazwy.md",
-    "Fizyka/Hydrostatyka",
-    "Fizyka/Ruch harmoniczny/Sprężyny.md",
-    "Fizyka/Prąd/Ciepło Joule’a-Lenza.md",
-    "Fizyka/Prąd/Napięcie.md",
-    "Fizyka/Termodynamika/Przemiany gazu doskonałego.md",
-    "Fizyka/Termodynamika/Ciepło.md",
-    "Fizyka/Termodynamika/Bilans cieplny.md",
-    "Fizyka/Kinematyka/Rzut poziomy.md",
+    "Fizyka/Ruch harmoniczny/U-rurka.md",
     "Fizyka/Kinematyka/Ruch przyspieszony po okręgu.md",
-    "Fizyka/Ruch harmoniczny/Prędkość i przyspiezenie w ruchu harmonicznym prostym.md",
-    "Fizyka/Kinematyka/Rzut ukośny.md",
-    "Fizyka/Kinematyka/Spadek swobodny.md",
-    "Fizyka/Dynamika/Pęd.md",
-    "Fizyka/Kinematyka/Ruch jednostajny przyspieszony.md",
-    "Fizyka/Kinematyka/Ruch jednostajny po okręgu.md",
-    "Fizyka/Ruch harmoniczny/Ruch harmoniczny prosty.md",
     "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
-    "Matematyka/Analiza/Pochodna.md",
+    "Fizyka/Fale/Parametry fali.md",
+    "Fizyka/Fale/Fala stojąca.md",
+    "Fizyka/Fale/Interferencja fal.md",
+    "Excalidraw/Fala stojąca.excalidraw.md",
+    "Excalidraw/Wahadło matematyczne.excalidraw.md",
+    "Fizyka/Ruch harmoniczny/Prawo Hooke'a.md",
+    "Fizyka/Fale",
+    "Fizyka/Ruch harmoniczny/Wahadło matematyczne.md",
+    "Fizyka/Ruch harmoniczny/Prędkość i przyspiezenie w ruchu harmonicznym prostym.md",
+    "Fizyka/Termodynamika/1 zasada termodynamiki.md",
+    "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
+    "Fizyka/Termodynamika/Rozszerzalność cieplna liniowa.md",
+    "Fizyka/Ruch harmoniczny/Ruch harmoniczny prosty.md",
+    "Fizyka/Termodynamika/Ciepło.md",
+    "Fizyka/Elektrostatyka/Kondensatory.md",
+    "Fizyka/Prąd/Ciepło Joule’a-Lenza.md",
+    "Fizyka/Podstawy/Okres i częstotliwość.md",
+    "Fizyka/Magnetyzm/Prawo Ampera.md",
+    "Fizyka/Magnetyzm/Strumień magnetyczny.md",
+    "Fizyka/Magnetyzm/Prawo Faradaya.md",
+    "Fizyka/Magnetyzm/Siła Lorentza.md",
     "Matematyka/Analiza/Całka.md",
+    "Matematyka/Analiza/Pochodna.md",
+    "Matematyka/Analiza/Pochodna funkcji złożonej.md",
+    "Fizyka/Hydrostatyka",
     "Fizyka/Ruch harmoniczny",
     "Fizyka/Ruch po okręgu",
     "Fizyka/Podstawy",
@@ -276,7 +287,6 @@
     "Fizyka/Magnetyzm",
     "Fizyka/Elektrostatyka",
     "Matematyka/Podstawy",
-    "Fizyka/Dynamika",
     "Bez nazwy 1.canvas",
     "Bez nazwy.canvas"
   ]

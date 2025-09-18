@@ -6,7 +6,8 @@ Czas stworzenia: "2025-09-17"
 Jest to sposób na obliczanie [[Pochodna|pochodnej]] funkcji która jest "wielowarstowa".
 # Wzór
 $$
-\frac{df[g(x)]}{dx} = \frac{df[g(x)]}{dx}*\frac{dg(x)}{dx}
+\frac{d}{dx}f(g(x)) = \frac{d}{dx}f(g(x))*\frac{d}{dx}g(x)
 $$
+
 # Opis
 Jest to iloczyn pochodnej całej funkcji i pochodnej "środka".
