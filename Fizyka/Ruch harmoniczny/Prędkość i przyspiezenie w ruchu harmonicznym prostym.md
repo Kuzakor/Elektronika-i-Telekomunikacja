@@ -9,6 +9,7 @@ Czas stworzenia: "2025-09-17"
 $$
 v =\frac{dx}{dt}= A\omega cos(\omega t)
 $$
-$$a = \frac{dv}{dt} = \frac{dA\omega cos(\omega t)}{dt} = -A \omega^2sin(\omega t)$$
+$$a = \frac{dv}{dt} = \frac{dA\omega cos(\omega t)}{dt} = -A \omega^{2sin(\omega t)}= \omega^2x$$
+
 # Opis
 Wzory po przeliczeniu pochodnej pochodzą z [[Pochodna funkcji złożonej|pochodnej funkcji złożonej]]

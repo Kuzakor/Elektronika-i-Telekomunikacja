@@ -11,10 +11,24 @@
             "id": "15c3173e2ca8477c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Widok grafu"
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka/Ruch harmoniczny/U-rurka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "U-rurka"
             }
           },
           {
@@ -241,7 +255,7 @@
         ],
         "direction": "vertical",
         "x": 2205,
-        "y": 211,
+        "y": 80,
         "width": 1264,
         "height": 1000,
         "maximize": true,
@@ -251,7 +265,10 @@
   },
   "active": "15c3173e2ca8477c",
   "lastOpenFiles": [
+    "Fizyka/Ruch harmoniczny/Wahadło matematyczne.md",
+    "Fizyka/Hydrostatyka/Prawo Archimedesa.md",
     "Fizyka/Ruch harmoniczny/U-rurka.md",
+    "Fizyka/Ruch harmoniczny/Prędkość i przyspiezenie w ruchu harmonicznym prostym.md",
     "Fizyka/Kinematyka/Ruch przyspieszony po okręgu.md",
     "Fizyka/Kinematyka/Ruch jednostajny prostoliniowy.md",
     "Fizyka/Fale/Parametry fali.md",
@@ -261,8 +278,6 @@
     "Excalidraw/Wahadło matematyczne.excalidraw.md",
     "Fizyka/Ruch harmoniczny/Prawo Hooke'a.md",
     "Fizyka/Fale",
-    "Fizyka/Ruch harmoniczny/Wahadło matematyczne.md",
-    "Fizyka/Ruch harmoniczny/Prędkość i przyspiezenie w ruchu harmonicznym prostym.md",
     "Fizyka/Termodynamika/1 zasada termodynamiki.md",
     "Fizyka/Termodynamika/Równanie gazu doskonałego.md",
     "Fizyka/Termodynamika/Rozszerzalność cieplna liniowa.md",
@@ -277,7 +292,6 @@
     "Fizyka/Magnetyzm/Siła Lorentza.md",
     "Matematyka/Analiza/Całka.md",
     "Matematyka/Analiza/Pochodna.md",
-    "Matematyka/Analiza/Pochodna funkcji złożonej.md",
     "Fizyka/Hydrostatyka",
     "Fizyka/Ruch harmoniczny",
     "Fizyka/Ruch po okręgu",
