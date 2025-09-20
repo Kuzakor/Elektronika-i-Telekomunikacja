@@ -12,5 +12,7 @@ $$E_{p} = mgh$$
 $$E_{c}= E_k+E_{p}= const$$
 
 # Opis
-m ] masa
-v ] prędkość
+m - masa
+v - prędkość
+h - wysokość
+g - przyspieszenie ziemskie

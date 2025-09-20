@@ -8,5 +8,5 @@ Czas stworzenia: 2025-09-10
 # Wzór
 $$p = mv$$
 # Opis
-m ] masa
-v ] [[Ruch jednostajny prostoliniowy|prędkość]]
+m - masa
+v - [[Ruch jednostajny prostoliniowy|prędkość]]
