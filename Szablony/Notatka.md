@@ -1,4 +1,4 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#fizyka #ruch_harmoniczny
+#fizyka #fale
