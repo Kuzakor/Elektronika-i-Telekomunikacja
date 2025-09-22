@@ -14,8 +14,6 @@ $$
 \begin{bmatrix} v_x \\ v_y \\ ... \end{bmatrix} + \begin{bmatrix} w_x \\ w_y \\ ... \end{bmatrix} = \begin{bmatrix} v_{x} + w_x \\ v_{y} +w_y \\ ... \end{bmatrix}
 $$
 $$A\begin{bmatrix} v_x \\ v_y \\ ... \end{bmatrix} = \begin{bmatrix} Av_x \\ Av_y \\ ... \end{bmatrix}$$
-
-$$$$
 # Opis
 - Jej wzór opisuje jak daleko "trzeba się ruszyć" od miejsca początkowego w każdym wymiarze aby dotrzeć na koniec tej strzałki.
 - Wynik [[Dodawania wektorów.excalidraw|dodawania]] opisuje do jakiego miejsca ostatecznie "przejdziemy" po zastosowaniu wszystkich wektorów
