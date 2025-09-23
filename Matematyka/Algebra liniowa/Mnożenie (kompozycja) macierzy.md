@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-22"
 ---
 #matematyka #algebra_liniowa
 # Definicja
-Mnożenie czyli kompozycja macierzy to [[Macierz jako liniowe przekrztałcenie płaszczyzny|wykonywanie przekrztałceń]] jeden po drugim. Wynikiem tego jest macierz która by przeniosła nas do punktu końcowego od razu.
+Mnożenie czyli kompozycja macierzy to [[Macierz jako liniowe przekrztałcenie|wykonywanie przekrztałceń]] jeden po drugim. Wynikiem tego jest macierz która by przeniosła nas do punktu końcowego od razu.
 #### WAŻNE: Kolejność wykonywania przekrztałceń ma znaczenie. Kolejność jest od PRAWEJ DO LEWEJ. 
 # Wzór
 $$\begin{bmatrix} a & c \\ b & d \end{bmatrix} \begin{bmatrix} e & g \\ f & h \end{bmatrix} = \begin{bmatrix}  &  \\  &  \end{bmatrix}$$
@@ -14,4 +14,4 @@ $$\begin{bmatrix} a & c \\ b & d \end{bmatrix} \begin{bmatrix} g \\ h  \end{bmat
 3. Ostateczny wynik:
 $$\begin{bmatrix} a & c \\ b & d \end{bmatrix} \begin{bmatrix} e & g \\ f & h \end{bmatrix} = \begin{bmatrix} ea+fc & ga+hc \\ eb+fd & gb+gd \end{bmatrix}$$
 # Opis
-Przekrztałcamy  [[Podstawa systemu koordynatów|i-hat i j-hat]]. Aby to zrobić używamy [[Macierz jako liniowe przekrztałcenie płaszczyzny|mnożenia matrycy i wektora]]. 
+Przekrztałcamy  [[Podstawa systemu koordynatów|i-hat i j-hat]]. Aby to zrobić używamy [[Macierz jako liniowe przekrztałcenie|mnożenia matrycy i wektora]]. 
