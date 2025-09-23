@@ -1,4 +1,4 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#fizyka #fale
+#matematyka #algebra_liniowa

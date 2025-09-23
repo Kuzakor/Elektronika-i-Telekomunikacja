@@ -9,4 +9,4 @@ $$\Phi_{b}= BScos\alpha$$
 # Opis
 B - indukcja magnetyczna
 S - pole powierzchni
-α - kąt między wektorem indukcji a [[Wektor powierzchni|wektorem powierzchni]]
+α - kąt między [[Wektor|wektorem]] indukcji a [[Wektor powierzchni|wektorem powierzchni]]
