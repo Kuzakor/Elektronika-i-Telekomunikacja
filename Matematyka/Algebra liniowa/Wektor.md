@@ -5,6 +5,7 @@ Czas stworzenia: "2025-09-22"
 # Definicja
 - Wektor w fizyce to "strzałka" posiadająca swoją długość, zwrot oraz kierunek. 
 - W informatyce jest to lista wartości
+- Wektor może przedstawiać [[Przestzeń wektorowa|cokolwiek]]
 - Dodawanie i mnożenie skalarne jest łopatologiczne
 - [[Iloczyn wektorowy]] jest już bardziej skomplikowany
 ### Rysunek
