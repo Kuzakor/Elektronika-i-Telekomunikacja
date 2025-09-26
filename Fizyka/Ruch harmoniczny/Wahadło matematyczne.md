@@ -15,4 +15,4 @@ $$Q_{\parallel} = Qcos\alpha$$
 # Opis
 Wzóry te wynikają z:
 - [[Prędkość i przyspiezenie w ruchu harmonicznym prostym]]
-- [[Trygonometria trójkąta prostokątnego]]
+- [[Podstawowa trygonometria]]

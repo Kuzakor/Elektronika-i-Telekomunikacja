@@ -15,4 +15,4 @@ $$
 $$Q_{\perp}= Qcos\alpha$$
 $$T=\mu R=\mu Q_{\perp} = Qcos\alpha \mu$$
 # Opis
-Wzory na składowe [[Prawa dynamiki Newtona (Siły)|cieżaru (Q)]] wynikają z [[Trygonometria trójkąta prostokątnego|trygonometrii trójkąta prostokątnego]]
+Wzory na składowe [[Prawa dynamiki Newtona (Siły)|cieżaru (Q)]] wynikają z [[Podstawowa trygonometria|trygonometrii trójkąta prostokątnego]]
