@@ -3,7 +3,8 @@ Czas stworzenia: "2025-09-08"
 ---
 #fizyka #kinematyka
 # Definicja
-Ruch w linii prostej w którym przyspieszenie (a) jest stałe. [[Pochodna]] [[Ruch jednostajny prostoliniowy|Ruchu jednostajnie prostoliniowego]]. [[Wektor]]
+- Ruch w linii prostej w którym przyspieszenie (a) jest stałe. [[Pochodna]] [[Ruch jednostajny prostoliniowy|ruchu jednostajnie prostoliniowego]] oraz [[Pochodne wyższego rzędu|pochodna drugiego rzędu]] drogi po czasie. 
+- [[Wektor]]
 
 # Wzory
 $$

@@ -6,7 +6,7 @@ Czas stworzenia: "2025-09-25"
 - Dowolną funkcję można traktować jako [[Wektor|wektor]] o nieskończonej ilości współrzednych (z racji że mamy nieskończoną ilość wejść i wyjść). Więc ma "nieskończenie wiele" wymiarów.
 - Przekrztałcenia  liniowe funkcji takie jak [[Pochodna|pochodna]] czy [[Całka|całka]] można traktować jako [[Macierz jako liniowe przekrztałcenie|przekrztałcenie liniowe w algebrze liniowej]]
 - Jest tak dlatego że fukncje są [[Przestzeń wektorowa|przestrzenią wektorową]].
-# Przykład: pochodna wielomianu jako macierz
+# Przykład: pochodna [[Wielomian|wielomianu]] jako macierz
 - Podstawowe funkcje jako [[Podstawa systemu koordynatów|i-hat i i-hat]]
 $$1, x,x^{2,}x^3,..$$
 - Nasza fukcja
