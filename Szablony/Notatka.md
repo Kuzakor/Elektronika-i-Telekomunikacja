@@ -1,4 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#matematyka #analiza
+#matematyka #podstawy
+# Definicja

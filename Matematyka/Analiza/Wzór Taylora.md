@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-29"
 ---
 #matematyka #analiza
 # Definicja
-- Jest to sposób na obliczenie *przybliżenia* dowolnej funkcji za pomocą [[Wielomian|wielomianu]]  za pomocą [[Pochodne wyższego rzędu|pochodnych wyższego rzędu]] co może ułatwić obliczenia.
+- Jest to sposób na obliczenie *przybliżenia* dowolnej [[Funkcja|funkcji]] za pomocą [[Wielomian|wielomianu]]  za pomocą [[Pochodne wyższego rzędu|pochodnych wyższego rzędu]] co może ułatwić obliczenia.
 - Wyporowadzenie do skumania (!todo)
 - Wzór dotyczy przbliżenia zaczynającego się od punktu 0
 # Wzór

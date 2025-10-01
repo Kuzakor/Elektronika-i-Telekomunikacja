@@ -8,6 +8,6 @@ Pochodne takie jak te można udowdnić albo [[Pochodna|abstrakcyjnie]] albo geom
 -  [[Wielomian|Wielomiany]] a jeszcze innym sposobem jest przedstawienie pochodnej jako [[Funkcje a algebra liniowa|macierzy]].
 -  [[Pochodna wielomianu.excalidraw]] 
 $$\frac{d}{dx}x^{a} = ax^{a-1}$$
--  Funkcje [[Podstawowa trygonometria|trygonometryczne]]
+-  [[Funkcja|Funkcje]] [[Podstawowa trygonometria|trygonometryczne]]
 -  [[Pochodna sinusa.excalidraw]]
 $$\frac{d}{dx}sin(x) = cos(x)$$

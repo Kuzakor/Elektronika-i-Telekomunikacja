@@ -10,4 +10,4 @@ Iloczyn [[Pochodna|pochodnych]] można przedstawić algebraicznie jak i geometry
 # Wzór
 $$\frac{d}{dx}(f(x) * g(x)) = \frac{d}{dx}f(x) * g(x) + \frac{d}{dx}g(x) * f(x)$$
 # Opis
-Jest to suma składająca się z pochodnej pierwszej funkcji pomnożonej przez drugą funkcję i pochodnej drugiej funkcji pomnożonej przez pierwszą funkcje.
+Jest to suma składająca się z pochodnej pierwszej [[Funkcja|funkcji]] pomnożonej przez drugą funkcję i pochodnej drugiej funkcji pomnożonej przez pierwszą funkcje.

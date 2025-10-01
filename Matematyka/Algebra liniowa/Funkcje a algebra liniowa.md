@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-25"
 ---
 #matematyka #algebra_liniowa
 # Co i jak
-- Dowolną funkcję można traktować jako [[Wektor|wektor]] o nieskończonej ilości współrzednych (z racji że mamy nieskończoną ilość wejść i wyjść). Więc ma "nieskończenie wiele" wymiarów.
+- Dowolną [[Funkcja|funkcję]] można traktować jako [[Wektor|wektor]] o nieskończonej ilości współrzednych (z racji że mamy nieskończoną ilość wejść i wyjść). Więc ma "nieskończenie wiele" wymiarów.
 - Przekrztałcenia  liniowe funkcji takie jak [[Pochodna|pochodna]] czy [[Całka|całka]] można traktować jako [[Macierz jako liniowe przekrztałcenie|przekrztałcenie liniowe w algebrze liniowej]]
 - Jest tak dlatego że fukncje są [[Przestzeń wektorowa|przestrzenią wektorową]].
 # Przykład: pochodna [[Wielomian|wielomianu]] jako macierz
