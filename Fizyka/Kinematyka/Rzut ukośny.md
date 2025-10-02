@@ -11,4 +11,4 @@ Jest to podobna sytuacja co w [[Rzut poziomy|rzucie poziomym]] z taką różnic�
 $$x = V_{0}cosαt$$
 $$y=V_0sinαt-\frac{gt^2}{2}$$
 # Opis
-Wzory są identyczne jak w przypadku [[Rzut poziomy|rzutu poziomego]] lecz zamiast V_0 jest V_0 pomnożone przez wartośc sinusa lub cosinusa podanego kąta co wynika z [[Podstawowa trygonometria|trygonometrii trójkąta prostokątnego]]
+Wzory są identyczne jak w przypadku [[Rzut poziomy|rzutu poziomego]] lecz zamiast V_0 jest V_0 pomnożone przez wartośc sinusa lub cosinusa podanego kąta co wynika z [[Funkcje trygonometryczne|trygonometrii trójkąta prostokątnego]]
