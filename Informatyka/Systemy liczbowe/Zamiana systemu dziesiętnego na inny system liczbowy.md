@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2025-10-06"
 ---
-#informatyka #podstawy
+#informatyka #systemy_liczbowe
 # Co i jak
 - System dziesiętny można zamienić na dowolny inny system liczbowy poprzez dzielenie i znajdowanie reszty dla części całkowitej oraz mnożenie i znajdowanie cześci całkowitej dla części ułamkowej
 - Dla części całkowitej wynik czytamy od dołu a dla częsci ułamkowej od góry

@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2025-10-06"
 ---
-#informatyka #podstawy
+#informatyka #systemy_liczbowe
 # Definicja
 - Znak danej liczby binarnej często zapisywany jest według konwencji znaku moduł (ZM)
 - Znak opisuje dodatkowy [[Bit|bit]] ustawiony przed daną liczbą. 0 oznacza + a 1 oznacza -.

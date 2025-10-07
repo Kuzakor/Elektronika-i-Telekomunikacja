@@ -1,10 +1,10 @@
 ---
 Czas stworzenia: "2025-10-06"
 ---
-#informatyka #podstawy
+#informatyka #systemy_liczbowe
 # Definicja
 - Kod U2 to *standard* kodowania liczb w [[System binarny|systemie binarnym]] przy [[Podstawowe działania na liczbach innych systemów liczbowych|wykonywaniu działań arytmetycznych]].
-- Jest on ulepszoną wersją kodu U1, który jest rzadko używany
+- Jest on ulepszoną wersją [[Kod U1|kodu U1]], który jest rzadko używany
 - Liczbę zapisujemy zawsze na osmiu [[Bit|bitach]] (1 bajt)
 - Zapis liczb dodatnich jest identyczny jak w przypadku [[Znak moduł systemu binarnego (ZM)|ZM]].
 $$(01101)_{ZM} = (00001101)_{U2}=+13$$

@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2025-10-06"
 ---
-#informatyka #podstawy
+#informatyka #systemy_liczbowe
 # Definicja
 - [[System szesznastkowy (hex)]] może zostać użyty do zakodowania wszystkich 16 kombinacji [[Bit|4-bitowej]] liczby w [[System binarny|systemie binarnym]].
 - [[Podstawowe działania na liczbach innych systemów liczbowych]]

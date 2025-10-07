@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#informatyka #podstawy
+#matematyka #podstawy
 # Definicja

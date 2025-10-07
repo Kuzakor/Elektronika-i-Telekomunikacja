@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2025-10-06"
 ---
-#informatyka #podstawy
+#informatyka #systemy_liczbowe
 # Definicja
 - System binarny (zwany też dwójkowym) to system liczbowy inny niż dziesiętny (domyślny).
 - Zawiera on dwie cyfry: 0 i 1
