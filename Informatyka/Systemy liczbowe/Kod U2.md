@@ -9,7 +9,7 @@ Czas stworzenia: "2025-10-06"
 - Zapis liczb dodatnich jest identyczny jak w przypadku [[Znak moduł systemu binarnego (ZM)|ZM]].
 $$(01101)_{ZM} = (00001101)_{U2}=+13$$
 - Zapis liczb ujemnych jest bardziej skomplikowany
-	- Jest to [[Negacja|negacja]] wszystkich bitów
+	- Jest to [[Bramki logiczne|negacja]] wszystkich bitów
 	$$001101 \rightarrow 110010$$
 	- Oraz dodanie liczby 1
 	$$110010 \rightarrow 110011$$

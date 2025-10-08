@@ -5,7 +5,7 @@ Czas stworzenia: "2025-09-26"
 # Definicja
 - Jest to [[Funkcja odwrtona|odwrotność]] [[Funkcja wykładniczna|funkcjii wykładniczej]]
 # Rysunek
-[[logarytm.excalidraw]]
+[[Logarytm.excalidraw]]
 # Wzór
 
 $$log_{a}b = c \Rightarrow a^{c}= b$$
