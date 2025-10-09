@@ -9,3 +9,4 @@ Czas stworzenia: "2025-10-09"
 - Sposób [[Układy sekwencyjne|sekwencyjny]] będzie dodawać te liczby "pisemnie" gdzie przeniesienie (liczba przepisywana dalej) będzie zapisywana w postaci stanu wewnętrznego układu przez co w zależności od niego będzie inny wynik zgodnie z definicją układu sekwencyjnego. Zaletą jest prostota a wadą prędkość
 - W układzie sekwencyjnym stosujemy [[Bramki logiczne|bramki XNOR i XOR]] (własna obserwacja)
 # Układ sekwencyjny
+[[Sumator.excalidraw]]
