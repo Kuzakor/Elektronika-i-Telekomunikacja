@@ -5,6 +5,7 @@ Czas stworzenia: "2025-10-06"
 # Definicja
 - [[System szesznastkowy (hex)]] może zostać użyty do zakodowania wszystkich 16 kombinacji [[Bit|4-bitowej]] liczby w [[System binarny|systemie binarnym]].
 - [[Podstawowe działania na liczbach innych systemów liczbowych]]
+- Jest to podobne do [[Kod BCD|kodu bcd]] z tą różnicą że zamieniamy 2 -> 16 a nie 10 -> 2
 # Przykład
 $$(195)_{10} = (C3)_{16}$$
 $$(C)_{16} = (1100)_2 = (12)_{10}$$

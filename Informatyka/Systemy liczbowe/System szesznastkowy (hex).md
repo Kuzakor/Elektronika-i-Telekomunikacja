@@ -10,7 +10,7 @@ Czas stworzenia: "2025-10-06"
 - Zachodzą następujące dzaiałania
 	- [[Zamiana systemu dziesiętnego na inny system liczbowy]]
 	- [[Podstawowe działania na liczbach innych systemów liczbowych]]
-- System ten jest często stosowany aby [[System szesnastkowy a system binarny|zakodować system binarny]].
+- System ten jest często stosowany aby [[Kod HEX|zakodować system binarny]].
 # Wzór
 $$N = \sum_{i=0}^{n}\limits a_i * 16^i + \sum_{j=0}^{m}\limits a_j * 16^j $$
 $$a \in \mathbb{N}$$
