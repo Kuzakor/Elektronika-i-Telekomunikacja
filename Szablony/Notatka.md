@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#informatyka #systemy_liczbowe
+#matematyka #podstawy
 # Definicja
