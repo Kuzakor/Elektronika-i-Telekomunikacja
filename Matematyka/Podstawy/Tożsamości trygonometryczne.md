@@ -7,8 +7,8 @@ Czas stworzenia: "2025-10-08"
 - Można je wyznaczyć za pomocą między innymi [[Twierdzenia pitagorasa|tw. pitagorasa]] w [[Funkcje trygonometryczne|okręgu na którym są zdefiniowane funkcje trygonometryczne]]
 # Wzór
 $$sin^2\alpha+cos^2\beta = 1$$
-$$sin(\alpha+\beta)=sin\alpha cos\beta+cos\alpha sin\beta$$
-$$cos(\alpha+\beta)=cos\alpha cos\beta - sin\alpha sin\beta$$
+$$sin(\alpha\pm\beta)=sin\alpha cos\beta\pm cos\alpha sin\beta$$
+$$cos(\alpha \pm \beta)=cos\alpha cos\beta -\pm sin\alpha sin\beta$$
 $$tg(\alpha+\beta)= \frac{tg\alpha+tg\beta}{1-tg\alpha tg\beta}$$
 
 $$ctg(\alpha+\beta)= \frac{ctg\alpha+ctg\beta - 1}{ctg\alpha ctg\beta}$$
