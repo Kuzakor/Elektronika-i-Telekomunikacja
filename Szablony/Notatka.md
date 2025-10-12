@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#matematyka #podstawy
+#informatyka #układy_logiczne
 # Definicja

@@ -4,7 +4,7 @@ Czas stworzenia: "2025-10-08"
 #informatyka #układy_logiczne
 # Definicja
 - Istnieje kilka różnych bramek logicznych. Każda z nich zwraca jedno wyjście ([[Bit]]) oraz przyjmuje jedno lub dwa wejścia (Bit).
-- Zwane też [[Funkcja|funkcjami]] logicznymi
+- Zwane też [[Funkcja|funkcjami]] logicznymi. Funkcja nie jest ograniczona do 2 wejść
 # Bramki
 - *AND* ->  && 
 	- 00 -> 0

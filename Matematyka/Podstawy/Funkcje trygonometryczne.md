@@ -19,11 +19,16 @@ $$ctg =\frac{cosx}{sinx}$$
 - Z rysunku można wyznaczyć takike własności jak jedynka trygonomretryczna. A wynikają one z [[Twierdzenia pitagorasa|twierdzenia pitagorasa]]
 - Funkcje z przedrostkiem co- dotyczą drugiego kąta w trójkącie. Oznacza to że ich wartośc jest taka sama dla różnicy kąta prostego i tego drugiego kąta
 $$sinx = cos(\frac{\pi}{2}-x)$$
-- [[Funkcja odwrtona|Funkcje odwrotne]] zwane też w trygonometrii *cykolmetrycznymi* mają przedrostek arc zamiast notacj klasycznej. (Trygonometria ma zjebana notację i już)
+- [[Funkcja odwrtona|Funkcje odwrotne]] zwane też w trygonometrii *cykolmetrycznymi* mają przedrostek arc zamiast notacj klasycznej oraz dziedzinę ograniczoną do <-1;1>. (Trygonometria ma zjebana notację i już)
 $$f(x) = sinx \Rightarrow f^{-1}(x) = arcsinx$$
 $$sin^{-1}x = (sinx)^{-1}$$
-### Rysunek
-[[Funkcje trygonometryczne.excalidraw]]
+$$y = arcsin(x) \Rightarrow siny=x$$
+$$arcsin\frac{\sqrt3}{2} = \frac{\pi}{3}$$
+# Rysunek/Wykresy
+- [[Funkcje trygonometryczne.excalidraw]]
+- [[Wykresy funkcji trygonometrycznych.excalidraw]]
+- Sinus jest funkcją [[Parzystość funkcji|nieparzystą]] a cosinus funkcja parzystą
+- [[Wykresy funkcji cyklometrycznych.excalidraw]]
 
 # Wzory
 - [[Funkcja]]

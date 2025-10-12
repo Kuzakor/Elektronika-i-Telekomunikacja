@@ -9,9 +9,10 @@ Czas stworzenia: "2025-10-10"
 3. Negacja zapisana jest w postaci kreski nad daną zmienną
 4. Bramka *XOR* zapisana jest w postaci plusa w kółku
 # Tożsamości
-- Prawo de Morgana$$\overline{x}\space\overline{y} = 
+- Prawo de Morgana$$\overline{xy} = 
 \overline{x} + \overline{y}$$
-- Reguła pochłaniania$$x+xy=x$$
+$$\overline{x+y} = \overline{x}\space\overline{y}$$
+- Reguła pochłaniania$$x+xy=x$$$$x(x+y) = x$$
 - Reguła sklejania
 $$xy+x\overline{y} =x$$
 $$(x+y)(x+\overline{y}) =x$$

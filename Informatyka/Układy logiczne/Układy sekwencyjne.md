@@ -22,5 +22,6 @@ switch układ.stan {
 	- Synchroniczne - sprawdzające wejścia co tyknięcie zegara i przeprowadzanie obliczeń (można na bazie tego wyznaczyć wykres wyjścia mając wykresy wejścia)
 	- Asynchorniczne
 - Układy te można opisywać za pomocą tabelki i/lub grafu.
+- Jest to rodzaj [[Funkcja logiczna|funkcjii logicznej]]
 ### Przykład
 [[Układ sekwencyjny.excalidraw]]

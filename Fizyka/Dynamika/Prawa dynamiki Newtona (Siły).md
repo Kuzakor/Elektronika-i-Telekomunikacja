@@ -6,7 +6,7 @@ Czas stworzenia: "2025-09-09"
 - Siła to [[Wektor|wektor]]
 - Jeżeli wszystkie siły się równowarzą to obiekt porusza się z [[Ruch jednostajny prostoliniowy|stałą prędkością]] lub stoi w miejscu
 $$
-\Sigma \vec{F}= 0 \Rightarrow v=const
+\sum\limits \vec{F}= 0 \Rightarrow v=const
 $$
 - Jeżeli siły się nie równowarzą to na objekt działa siła równa iloczynowi [[Ruch jednostajny przyspieszony|przyspiesenia]] (a) oraz masy (m)
 $$

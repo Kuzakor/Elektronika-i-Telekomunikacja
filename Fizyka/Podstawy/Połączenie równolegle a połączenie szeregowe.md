@@ -5,6 +5,6 @@ Czas stworzenia: "2025-09-17"
 # Definicja
 Współczynnik zastępczy ułatwia  wykonywanie obliczeń licząc wszystkie wartości na raz.
 - Połączenie równoległe
-$$k_{z}= \Sigma k_i$$
+$$k_{z}= \sum\limits k_i$$
 - Połączenie szeregowe
-$$\frac{1}{k_{z}}= \Sigma \frac{1}{k_{i}}$$
+$$\frac{1}{k_{z}}= \sum\limits \frac{1}{k_{i}}$$
