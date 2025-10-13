@@ -7,9 +7,11 @@ Czas stworzenia: "2025-10-12"
 - Jako argument przyjmuje dowolną ilość [[Bit|bitów]] 
 - Zwraca dowolna (często inną ilość bitów)
 - Przykładem są [[Bramki logiczne|bramki logiczne]]
+- W przeciwieństwie do funkcji znanych z matematyki ilość funkcji z danej ilości zmiennych jest skończona i wynosi. Gdzie n to ilośc zmiennych.
+$$2^{2n}$$
 # Rodzaje
-- [[Układy sekwencyjne]]
-- [[Układy kombinacyjne]]
+- [[Układ sekwencyjny]]
+- [[Układ kombinacyjny]]
 # Postać zapisu
 - Tabelka
 - Schemat

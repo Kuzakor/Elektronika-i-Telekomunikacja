@@ -10,7 +10,11 @@ Czas stworzenia: "2025-10-12"
 # Wzór
 $$f
 (x_1,x_2,x_3,..x_n) = [x_1+f(1,x_2,x_3...,x_n)] [\overline{x}+f(0,x_2,x_3,...x_n)]$$
-# Faktyczny zapis
+# Zapis programistyczny
+``` python
+(... or ...) and (... or ...) and (... or ...) ...
+```
+# Zapis w notacji pi
 - Jeżeli zapis funkcji w postaci tabelki jest posegregowany od najmniejszego do największego wejścia
 - To ZNPI to indexy wszystkich wyjść równych 0 (licząc od zera)
 - [[ZNPS i ZNPI.excalidraw]]

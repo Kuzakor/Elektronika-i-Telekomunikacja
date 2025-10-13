@@ -10,4 +10,4 @@ Czas stworzenia: "2025-10-07"
 - Jest to rodzaj [[Funkcja logiczna|funkcjii logicznej]]
 - Wejscia przekazywane są co stały czas. 
 ### WAŻNE: To samo wejście da nam ZAWSZE takie samo wyjście.
-### Przeciwieństwem są [[Układy sekwencyjne|układy sekwencyjne]]
+### Przeciwieństwem są [[Układ sekwencyjny|układy sekwencyjne]]
