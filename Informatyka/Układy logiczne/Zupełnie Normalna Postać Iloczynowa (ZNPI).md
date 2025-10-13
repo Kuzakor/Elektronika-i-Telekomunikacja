@@ -15,6 +15,6 @@ $$f
 (... or ...) and (... or ...) and (... or ...) ...
 ```
 # Zapis w notacji pi
-- Jeżeli zapis funkcji w postaci tabelki jest posegregowany od najmniejszego do największego wejścia
+- Jeżeli zapis funkcji jest w postaci tabelki a wejście zapiszemy jako jedna liczba w systemie dziesiętnym (index)
 - To ZNPI to indexy wszystkich wyjść równych 0 (licząc od zera)
 - [[ZNPS i ZNPI.excalidraw]]

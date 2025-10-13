@@ -15,6 +15,6 @@ $$f
 (... and ...) or (... and ...) or (... and ...) ...
 ```
 #  Zapis w notacji sigma
-- Jeżeli zapis funkcji w postaci tabelki jest posegregowany od najmniejszego do największego wejścia
+- Jeżeli zapis funkcji jest w postaci tabelki a wejście zapiszemy jako jedna liczba w systemie dziesiętnym (index)
 - To ZNPS to indexy wszystkich wyjść równych 1 (licząc od zera)
 - [[ZNPS i ZNPI.excalidraw]]
