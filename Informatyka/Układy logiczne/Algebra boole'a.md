@@ -22,6 +22,6 @@ $$x + \overline{x}y = x+y$$
 \overline{x} + \overline{y}$$
 $$\overline{x+y} = \overline{x}\space\overline{y}$$
 - Reguła pochłaniania$$x+xy=x$$$$x(x+y) = x$$
-- Reguła sklejania
+- [[Reguły sklejania]]
 $$xy+x\overline{y} =x$$
 $$(x+y)(x+\overline{y}) =x$$

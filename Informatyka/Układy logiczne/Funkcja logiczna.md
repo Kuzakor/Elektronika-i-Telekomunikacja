@@ -12,6 +12,8 @@ $$2^{2n}$$
 # Rodzaje
 - [[Układ sekwencyjny]]
 - [[Układ kombinacyjny]]
+# Minimalizajca
+- [[Reguły sklejania]]
 # Postać zapisu
 - Tabelka
 - Schemat
