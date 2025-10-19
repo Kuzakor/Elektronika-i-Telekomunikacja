@@ -14,6 +14,7 @@ $$2^{2n}$$
 - [[Układ kombinacyjny]]
 # Minimalizajca
 - [[Reguły sklejania]]
+- [[Tabela Karnaugh]]
 # Postać zapisu
 - Tabelka
 - Schemat
