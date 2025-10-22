@@ -8,5 +8,9 @@ Czas stworzenia: "2025-10-09"
 	- [[Ciąg arytmetyczny]]
 	- [[Ciąg geometryczny]]
 - Ciąg może mieć wzór jawny lub rekurencyjny (gdzie następna wartość zależy od poprzednich)
+- Ciąg ma lub nie ma 3 "parametry"
+	- [[Monotoniczność funkcji|Monotoniczność]]
+	- [[Ograniczenie funkcji|Ograniczenie]]
+	- [[Granica|Granicę]]
 # Wzór
 $$a_n = \mathbb{N} \rightarrow \mathbb R$$
