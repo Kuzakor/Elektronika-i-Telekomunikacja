@@ -9,6 +9,7 @@ $$f(x) = \frac{P(x)}{Q(x)}$$
 $$Q(x) = 0$$
 - Wykresem jest [[Hiperbola.excalidraw|hiperbola]]
 - Jest to rodzaj [[Funkcja potęgowa|funkcji potęgowej]]
+- [[Granica|Granicą]] jest 0
 # Co i jak
 - Przy rozwiązywaniu równań wyznaczamy dziedzinę i pozbywamy się mianownika.
 - Przy rozwiązywaniu nierówności rozpatrujemy wszystkie przypadki i/lub wymnażamy przez kwadrat mianownika (aby był dodatni)

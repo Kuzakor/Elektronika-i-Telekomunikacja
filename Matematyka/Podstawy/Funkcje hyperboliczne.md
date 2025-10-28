@@ -5,7 +5,7 @@ Czas stworzenia: "2025-10-07"
 # Definicja
 - Funkcje hyperboliczne są podobne do [[Funkcje trygonometryczne|funkcjii trygonemtrycznych]] lecz zamiast być opisane na okręgu są opisane na hiperboli której wzóry wygląda następująco:
 $$x^2 - y^2 = 1$$
-- Ich wzory opisane są za pomocą [[Funkcja wykładniczna|funkcjii wykładniczej]]
+- Ich wzory opisane są za pomocą [[Funkcja wykładniczna|funkcjii wykładniczej]] i bazują na [[Liczba eulera (e)|e]]
 # Wzór
 $$sinhx = \frac{e^x - e^{-x}}{2}$$
 $$coshx = \frac{e^x + e^{-x}}{2}$$

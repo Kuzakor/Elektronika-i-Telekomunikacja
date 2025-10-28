@@ -9,7 +9,10 @@ Czas stworzenia: "2025-09-26"
 - Granica prawostrona to zbliżanie się do wartości od dodatniej strony
 - Prawa strona musi być równa lewej by granica istniała
 - W rozwiązywaniu granic przydatna jest [[Reguła de l’Hospitala]]
+- [[Liczba eulera (e)]]
 # Definicja formalna
 $$![{\displaystyle (\forall \varepsilon >0)\,(\exists \delta >0)\,(\forall x\in \mathbb {R} )\,(0<|x-p|<\delta \implies |f(x)-L|<\varepsilon ).}])$$
-# Przykład
-$$lim_{h\rightarrow0} \frac{(2+h)^{3}- 2^{3}}{h} = 12$$
+# Najważniejsze granice
+$$\lim_{n\to\infty} \left(1+ \frac{1}{n}\right)^n = e$$
+$$\lim_{n\to\infty}b_n = 0 \Rightarrow\lim_{n\to\infty} \left(1+ b_n\right)^{\frac{1}{bn}} = e$$
+$$\lim_{x\to\infty} \frac{1}{x}=0$$
