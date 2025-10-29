@@ -13,6 +13,6 @@ Czas stworzenia: "2025-09-26"
 # Definicja formalna
 $$![{\displaystyle (\forall \varepsilon >0)\,(\exists \delta >0)\,(\forall x\in \mathbb {R} )\,(0<|x-p|<\delta \implies |f(x)-L|<\varepsilon ).}])$$
 # Najważniejsze granice
-$$\lim_{n\to\infty} \left(1+ \frac{1}{n}\right)^n = e$$
-$$\lim_{n\to\infty}b_n = 0 \Rightarrow\lim_{n\to\infty} \left(1+ b_n\right)^{\frac{1}{bn}} = e$$
+$$\lim_{x\to\infty} \left(1+ x\right)^{\frac{1}{x}} = e$$
 $$\lim_{x\to\infty} \frac{1}{x}=0$$
+$$\lim_{x\to0} \frac{sinx}{x} = 1$$
