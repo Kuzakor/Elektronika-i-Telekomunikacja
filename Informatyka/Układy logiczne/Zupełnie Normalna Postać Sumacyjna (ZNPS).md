@@ -7,6 +7,7 @@ Czas stworzenia: "2025-10-12"
 - Funkcja logiczna zapisana w ten sposób nazywana jest *postacią kanoniczną* danej funkcjii logicznej
 - Alternatywą jest [[Zupełnie Normalna Postać Iloczynowa (ZNPI)]]
 - Wymagana wiedza z [[Algebra boole'a|algebry bool'a]]
+- [[Implikant i Implicent]]
 # Wzór
 $$f
 (x_1,x_2,x_3,..x_n) = x_1f(1,x_2,x_3...,x_n) +\overline{x_1}f(0,x_2,x_3,...x_n)$$
