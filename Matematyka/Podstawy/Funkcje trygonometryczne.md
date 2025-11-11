@@ -19,7 +19,7 @@ $$ctg =\frac{cosx}{sinx}$$
 - Z rysunku można wyznaczyć takike własności jak jedynka trygonomretryczna. A wynikają one z [[Twierdzenia pitagorasa|twierdzenia pitagorasa]]
 - Funkcje z przedrostkiem co- dotyczą drugiego kąta w trójkącie. Oznacza to że ich wartośc jest taka sama dla różnicy kąta prostego i tego drugiego kąta
 - Funkcje te są [[Okresowość funkcji|okresowe]]
-- Funkcje te są [[Ograniczenie funkcji|ograniczone]]
+- Funkcje *tangens* i *cotangens* posiadają [[Asymptoty|asymptoty pionowe]]
 $$sinx = cos(\frac{\pi}{2}-x)$$
 # Rysunek/Wykresy
 - [[Funkcje trygonometryczne.excalidraw]]

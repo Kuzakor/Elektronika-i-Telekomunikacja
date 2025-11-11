@@ -15,6 +15,7 @@ Czas stworzenia: "2025-10-01"
 	- [[Granica]]
 	- [[Pochodna]]
 	- [[Całka]]
+	- [[Asymptoty]]
 # Wzór
 $$f:X\rightarrow Y$$
 $$y = f(x)\space dla \space x\in X$$

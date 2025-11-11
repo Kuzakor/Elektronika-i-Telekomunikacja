@@ -4,6 +4,7 @@ Czas stworzenia: "2025-09-26"
 #matematyka #podstawy
 # Definicja
 - Jest to [[Funkcja odwrtona|odwrotność]] [[Funkcja wykładniczna|funkcjii wykładniczej]]
+- Posiada [[Asymptoty|asymptotę pionowa]] w x = 0
 # Rysunek
 [[Logarytm.excalidraw]]
 # Wzór
