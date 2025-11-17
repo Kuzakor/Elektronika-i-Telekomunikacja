@@ -5,7 +5,7 @@ Czas stworzenia: "2025-09-26"
 # Definicja
 - [[Funkcja|Funkcja]] wykładnicza [[Pochodna|rośnie]] z "prędkością" równą jej samej wyskalowaną o stały współczynnik (lna)
 - Podstawą może być dowolna liczba lecz najczęsciej jest to [[Liczba eulera (e)|liczba eulera]] gdyż ten stały współczynnik wzrostu będzie wtedy równy 1 (definicja e)
-- W fizyce najcześciej zastosowanie ma [[funkcja]] wykładnicza o podstawie e gdyż "prędkość" przyrostu jest równa jej samej.
+- W fizyce najcześciej zastosowanie ma [[Funkcja]] wykładnicza o podstawie e gdyż "prędkość" przyrostu jest równa jej samej.
 - Posiada [[Asymptoty|asympototę pionową]] y = 0.
 # Rysunek
 [[Funkcja wykładnicza.excalidraw]]

@@ -22,9 +22,9 @@ Czas stworzenia: "2025-09-16"
 $$\frac{d}{dx}f(x) = lim_{h \rightarrow 0}\frac{f(x+h) -f(x)}{h} $$
 # Zastosowania
 - [[Wzór Taylora]] ([[Przybliżanie wartości za pomocą różniczek]])
-- [[Obliczanie lokalnych minimum i maximum za pomocą pochodnej]]
-- [[Obliczanie wypukłości i punktów przegięcia funkcjii za pomocą pochodnej]]
-- [[Obliczanie stycznej do wykresu za pomocą pochodnej]]
+- [[Lokalne minimum i maximum]]
+- [[Wypukłość funkcji]]
+- [[Styczna do wykresu]]
 - [[Reguła de l’Hospitala]]
 # Rysunek
 [[Pochodna i różniczki.excalidraw]]

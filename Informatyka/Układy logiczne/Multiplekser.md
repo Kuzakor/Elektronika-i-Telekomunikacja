@@ -12,3 +12,8 @@ $$Y = \overline{A_1}\space\overline{A_2}\space... \space\overline{A_n} *I_0+\ove
 # Symbol i zapis bramkowy
 [[Multiplexer.excalidraw]]
 # Praktyka
+- W praktyce wybieramy część wejść jako informacyjne a część jako adresowe.
+- Wejścia adresowe po prostu podłączamy
+- Wejścia informacyjne robimy obliczająć prostą funkcję logiczną dla danego rzędu w którym znajdują się wejścia w [[Tabela Karnaugh|tabelii karnaugh]].
+- Na podstawie tego podłączamy wejścia do odpowiednich wejść informacyhnych.
+- Jeżeli wyjście nie jest wprost zależne od jednej zmiennej zajdzie potrzeba użycia bramek logicznych. 
