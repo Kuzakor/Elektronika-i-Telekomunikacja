@@ -25,6 +25,6 @@ switch układ.stan {
 	- [[Model Mealy'ego]]
 	- [[Model Moore'a]]
 - Układy te można opisywać za pomocą tabelki i/lub grafu.
-- Jest to rodzaj [[Funkcja logiczna|funkcjii logicznej]]
+- [[Minimalizacja liczby stanów układów sekwencyjnych]]
 ### Przykład
 [[Układ sekwencyjny.excalidraw]]

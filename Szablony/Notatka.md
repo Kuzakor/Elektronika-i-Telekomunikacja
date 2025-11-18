@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#matematyka #analiza
+#matematyka #algebra_liniowa 
 # Definicja
