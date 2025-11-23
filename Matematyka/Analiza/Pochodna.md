@@ -9,7 +9,6 @@ Czas stworzenia: "2025-09-16"
 - Pochodna zdefiniowana jest jako [[Granica|granica]] lecz występują wzory ułatwiające jej obliczanie które mogą mieć swoje przedstawienie [[Obliczanie podstawowowych pochodnych a geometria|geometryczne]].
 - #####  Jeżeli funkcja jest rożnicznkowalna w x (można obliczyć pochodną) to jest ciągła w x.
 - Jest to iloraz [[Rożniczki|różniczek]]
-- Działanie odwrotne to [[Całka|całka]]
 - Funkcje bardziej skomplikowane obliczamy według następujących zasad
 	-  [[Pochodna funkcji złożonej]]
 	-  Pochodna sumy to to samo co suma pochodnych
