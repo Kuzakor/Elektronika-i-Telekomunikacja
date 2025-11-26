@@ -3,7 +3,7 @@ Czas stworzenia: "2025-11-19"
 ---
 #matematyka #analiza 
 # Co i jak
-- Jest to sposób [[Całka|całkowania]] [[Funkcja|funkcji]] przypominających swoją postacią [[Pochodna funkcji złożonej|pochodną funkcjii złożonej]] będącą iloczynem. 
+- Jest to sposób [[Całka|całkowania]] [[Funkcja|funkcji]] złożonych. Wynika z [[Pochodna funkcji złożonej| wzoru na pochodną funkcjii złożonej]]
 - [[Pochodna]]
 - [[Funkcja pierwotna]]
 $$

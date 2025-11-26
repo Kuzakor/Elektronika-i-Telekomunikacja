@@ -9,5 +9,6 @@ Czas stworzenia: "2025-11-18"
 - Jeżeli tak a jedyną rożnicą jest przechodzenie tych stanów do siebie nawzajem to możemy je połączyć w jeden
 - Powtarzamy czynność
 - Działa zarówno dla [[Model Moore'a|modelu moora]] jak i [[Model Mealy'ego|modelu mealy'ego]].
+- [[Sposób algorytmiczny minimalizacji układów sekwencyjnych]].
 # Przykład
 [[Minimalizacja liczby stanów.excalidraw]]

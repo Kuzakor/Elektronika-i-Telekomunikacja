@@ -27,5 +27,7 @@ $$
 - [[Całki funkcjii elementarnych]]
 - [[Całkowanie częściami]]
 - [[Całkowanie poprzed podstawienie]]
+- [[Całkowanie funkcji wymiernych]]
+- [[Całkowanie funkcji trygonometrycznych w funkcjach złożonych]]
 ### Rysunek - przykład
 [[Całka.excalidraw]]
