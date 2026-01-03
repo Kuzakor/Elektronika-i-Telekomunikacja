@@ -26,5 +26,7 @@ switch układ.stan {
 	- [[Model Moore'a]]
 - Układy te można opisywać za pomocą tabelki i/lub grafu.
 - [[Minimalizacja liczby stanów układów sekwencyjnych]]
+- [[Przerzutnik]]
+- [[Realizacja układów sekwencyjnych]]
 ### Przykład
 [[Układ sekwencyjny.excalidraw]]

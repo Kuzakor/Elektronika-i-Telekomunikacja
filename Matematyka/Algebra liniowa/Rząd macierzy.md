@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-23"
 ---
 #matematyka #algebra_liniowa
 # Definicja
-- Rząd macierzy opisuje ile *wymiarów* pokrywają wszystkie wektory po [[Macierz jako liniowe przekrztałcenie|przekrztałceniu za pomocą macierzy]].
+- Rząd macierzy opisuje ile *wymiarów* pokrywają wszystkie wektory po [[Macierz|przekrztałceniu za pomocą macierzy]].
 - Jeżeli [[Wyznacznik macierzy|wyznacznik macierzy]] jest równy 0 to ilość *wymiarów* (więc i rząd) które pokrywają wszystkie wektory będzie mniejsza niż wielkość samej macierzy (dla 2x2 jest to domyslnie 2D a dla 3x3 3D itd.)
 # Przykład
 - Sheer, pozostają dwa wymiary więc rząd = 2

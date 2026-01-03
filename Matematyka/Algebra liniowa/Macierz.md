@@ -11,6 +11,14 @@ $$L(c\vec{v}) = cL(\vec{v})$$
 - Macierz 2x2 to tak naprawdę zapis nowych wartosci i-hat i j-hat. Dla macierzy 3x3 będzie to przekrztałcenie w 3 wymiarach.
 - Macierz 3x2 przenosi nas z 2 wymiarów w 3. Natomiast 2x3 z 3 wymiarów w 2. Itd.
 - Mnożenie macierzy przez wektor to tak naprawdę obliczenie tego wektora po przemianie opisane tą właśnie macierzą
+- Własnośći
+	- [[Mnożenie (kompozycja) macierzy]]
+	- [[Macierz otrogonalna]]
+	- [[Macierz transponowana]]
+	- [[Macierz w rozwiązywaniu liniowych układów równań]]
+	- [[Rząd macierzy]]
+	- [[Odwrotna macierz]]
+	- [[Wyznacznik macierzy]]
 ### Rysunek
 [[Macierz jako liniowe przekrztałcenie płaszczyzny.excalidraw]]
 
@@ -22,5 +30,9 @@ $$ \hat{j} =\begin{bmatrix} c \\ d \end{bmatrix}$$
 $$M = \begin{bmatrix} a & c \\ b & d \end{bmatrix}$$
 - Mnożenie (zastoswanie) przez wektor
 $$\begin{bmatrix} a & c \\ b & d \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix} = x\begin{bmatrix} a \\ b \end{bmatrix} + y\begin{bmatrix} c \\ d \end{bmatrix} = \begin{bmatrix} ax + cx \\ by + dy \end{bmatrix}$$
+# Specjalne macierze
+- Jednostokowa -> jedynki po przekątnej
+- Zerowa -> Same zera
+- Trójkątna górna/dolna -> Połowa macierzy to 0
 # Opis
 Mnożenie to [[Podstawa systemu koordynatów|zapis wektora za pomocą nowych i-hat i j-hat]].

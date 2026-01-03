@@ -29,5 +29,10 @@ $$
 - [[Całkowanie poprzed podstawienie]]
 - [[Całkowanie funkcji wymiernych]]
 - [[Całkowanie funkcji trygonometrycznych w funkcjach złożonych]]
+# Zastosowania
+- [[Średnia wartość funkcji]]
+- [[Pole powierzchni między krzywymi]]
+- [[Długość krzywej]]
+- [[Objetość]]
 ### Rysunek - przykład
 [[Całka.excalidraw]]

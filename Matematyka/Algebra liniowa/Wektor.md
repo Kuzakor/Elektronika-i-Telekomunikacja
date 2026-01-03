@@ -23,5 +23,5 @@ $$\begin{bmatrix} v_x \\ v_y \\ ... \end{bmatrix} \cdot \begin{bmatrix} w_x \\ w
 - Wynik mnożenia przez skalar "wydłuża lub skraca" wektor. Mnożenie przez odwrotny znak obraca go.
 - Iloczyn skalarny wektorów można opisać [[Iloczyn skalarny.excalidraw|graficznie]]
 # Fun fact
-Iloczyn skalarny dwóch wektorów to to samo [[Macierz jako liniowe przekrztałcenie|zastosowanie macierzy o jednym rzędzie]] (przenosi nas w jeden wymiar).
+Iloczyn skalarny dwóch wektorów to to samo [[Macierz|zastosowanie macierzy o jednym rzędzie]] (przenosi nas w jeden wymiar).
 $$\begin{bmatrix} v_x \\ v_y \\ ... \end{bmatrix} \cdot \begin{bmatrix} w_x \\ w_y \\ ... \end{bmatrix} = v_x*w_{x}+v_y*w_{y}+ ... = \begin{bmatrix} v_x \ v_y \ ... \end{bmatrix} \begin{bmatrix} w_x \\ w_y \\ ... \end{bmatrix}$$
