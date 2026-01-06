@@ -19,3 +19,7 @@ $$
 	- Wyzerowany wiersz -> Nieskończenie wiele rozwiązań, odpowiadająca zmienna staje się parametrem
 	- Wiersz sprzeczny -> Brak rozwiązań
 	- Normalna sytuacja -> 1 rozwiązanie.
+# Praktyka
+- W prakyce zerujemy kolumna po kolumnie poprzed dodawanie n-tego wiersza pomnożonej przez skalar do wszystkich pozostałych aby daną kolumnę wyzerować
+- Oraz jeżeli pojawi nam się zero na przekątnej to przesuwami wiersz tak aby nam pasował.
+- Gwarantuje to minimalna ilość obliczeń 

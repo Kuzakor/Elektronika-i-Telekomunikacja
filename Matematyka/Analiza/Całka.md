@@ -29,6 +29,7 @@ $$
 - [[Całkowanie poprzed podstawienie]]
 - [[Całkowanie funkcji wymiernych]]
 - [[Całkowanie funkcji trygonometrycznych w funkcjach złożonych]]
+- [[Całkowanie funkcji niewymiernych]]
 # Zastosowania
 - [[Średnia wartość funkcji]]
 - [[Pole powierzchni między krzywymi]]

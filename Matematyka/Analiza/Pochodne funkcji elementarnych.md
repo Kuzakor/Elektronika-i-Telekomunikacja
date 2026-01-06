@@ -14,3 +14,7 @@ $$\frac{d}{dx}(ln|x|) = \frac{1}{x}\space \space \space \frac{d}{dx}(log_a|x|) =
 $$\frac{d}{dx}(sinx) = cosx\space \space \space \frac{d}{dx}(cosx) = -sinx \space \space \space \frac{d}{dx}(tgx) = \frac{1}{cos^2x} \space \space \space \frac{d}{dx}(ctgx) = - \frac{1}{sin^2x}$$
 - [[Funkcje cyklometryczne]]
 $$\frac{d}{dx} (arcsinx) =  \frac{1}{\sqrt{1-x^2}}\space  \space\frac{d}{dx} (arccosx) =  -\frac{1}{\sqrt{1-x^2}}\space  \space \frac{d}{dx} (arctgx) =  \frac{1}{1+x^2}\space \space \frac{d}{dx} (arcotx) =  -\frac{1}{1+x^2}$$
+- [[Funkcje hyperboliczne]]
+$$
+\frac{d}{dx}\sinh = \cosh \space \space \frac{d}{dx} \cosh = \sinh
+$$

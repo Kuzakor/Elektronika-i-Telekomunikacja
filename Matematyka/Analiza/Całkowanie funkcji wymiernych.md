@@ -8,6 +8,7 @@ Czas stworzenia: "2025-11-26"
 - Następnie rozbijamy wielomian w mianowniku na iloczyn funkcji liniowych/kwadratowych
 - Rozpisujemy to na wiele prostych ułamków. Współczynniki liniowe bądź stałe obliczamy z równania.
 - Następnie całkujamy korzystając z [[Całki funkcjii elementarnych|całek funkcjii elementarnych]] oraz wzoru na funkcję wymierną o mianowniku kwadratowym który z nich wynika.
+- [[Funkcje cyklometryczne]]
 # Wzór
 $$
 \int \frac{1}{(x+b)^2+a} = \frac{1}{\sqrt{a}}arctg\left( \frac{x}{\sqrt{ a }} \right) +C
