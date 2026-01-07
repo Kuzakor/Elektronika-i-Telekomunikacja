@@ -17,4 +17,3 @@ $$
 - [[Przybliżanie wartości w funkcjach wielu zmiennych]]
 - [[Gradient funkcjii]]
 - [[Ekstrema i punkt siodłowy funkjcii wielu zmiennych]]
-- 

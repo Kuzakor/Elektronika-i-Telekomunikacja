@@ -5,7 +5,7 @@ Czas stworzenia: "2025-09-17"
 # Definicja
 Prawo to opisuje [[Prawa dynamiki Newtona (Siły)|siłę]] dziłającą na objekt przyczepiony do sprężyny który porusza się [[Ruch harmoniczny prosty|ruchem harmonicznym]]. 
 ### Rysunek
-[[Prawo Hooke'a.excalidraw]]
+[[Prawo Hooke_a.excalidraw]]
 # Wzór
 $$F_{s}= kx$$
 # Opis

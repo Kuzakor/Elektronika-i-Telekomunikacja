@@ -23,4 +23,4 @@ $$ \begin{bmatrix} a & b \\ c & d\end{bmatrix}\begin{bmatrix} x \\ y  \end{bmatr
 $$x = \frac{d(\begin{bmatrix} e & b \\ f & d\end{bmatrix})}{d(\begin{bmatrix} a & b \\ c & d\end{bmatrix})}$$
 $$y=\frac{d(\begin{bmatrix} a & e \\ c & f\end{bmatrix})}{d(\begin{bmatrix} a & b \\ c & d\end{bmatrix})}$$
 ### Rysunek
-[[Wzory Cramer'a.excalidraw]]
+[[Wzory Cramer_a.excalidraw]]
