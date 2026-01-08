@@ -10,5 +10,9 @@ Czas stworzenia: "2025-09-23"
 [[Iloczyn wektorowy.excalidraw]]
 
 # Wzór
-- Długość otrzymanego wektora
-$$\begin{bmatrix} a \\ b \end{bmatrix} \times \begin{bmatrix}c \\ d \end{bmatrix} = d(\begin{bmatrix}a & c \\ b & d \end{bmatrix}) = ad -bc$$
+$$
+\vec{v} \times \vec{u} = \begin{vmatrix} i &j &k \\
+v_{x} &v_{y} &v_{z}  \\
+u_{x} &u_{y} &u_{z}
+\end{vmatrix}
+$$
