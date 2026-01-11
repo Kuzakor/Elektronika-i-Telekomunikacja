@@ -7,6 +7,7 @@ Czas stworzenia: "2026-01-06"
 - [[Pochodne funkcji elementarnych]]
 - [[Funkcje trygonometryczne]]
 - [[Funkcje hyperboliczne]]
+- Aby powrócić do oryginalnej zmiennej korzystamy z [[Funkcje cyklometryczne|funkcjii cyklometrycznych]] oraz [[Funkcje odwrotne do hyperbolicznych|odwrotnych do hyperbolicznych]].
 # Całki
 $$
 \int \sqrt{ a^2-x^2 } dx 
