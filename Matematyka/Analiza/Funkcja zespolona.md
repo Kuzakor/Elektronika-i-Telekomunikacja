@@ -11,6 +11,7 @@ $$
 $$
 f(x+yi) = f(x,y) \to x+yi
 $$
+- Ich wykresów nie można narysować w pojemnej dla człowieka postaci. Biorą one płaszczyznę i wyrzucają płaszczyznę więc wykres byłby conajmniej *4-wymiarowy*
 # Przykład
 $$
 f(z) = z^2

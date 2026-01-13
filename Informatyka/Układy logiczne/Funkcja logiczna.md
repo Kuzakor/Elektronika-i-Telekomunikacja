@@ -18,6 +18,6 @@ $$2^{2n}$$
 # Postać zapisu
 - Tabelka
 - Schemat
-- Zapis za pomocą [[Algebra boole'a|algebry boole'a]]
+- Zapis za pomocą [[Algebra boole_a|algebry boole'a]]
 - [[Zupełnie Normalna Postać Sumacyjna (ZNPS)]]
 - [[Zupełnie Normalna Postać Iloczynowa (ZNPI)]]
