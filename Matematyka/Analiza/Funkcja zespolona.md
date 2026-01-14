@@ -26,3 +26,5 @@ $$
 # Reszta
 - [[Pochodna funkcjii zespolonej]]
 - [[Równania Cauchy-Riemanna]]
+- [[Całka krzywoliniowa]]
+- [[Transformata Laplaca]]

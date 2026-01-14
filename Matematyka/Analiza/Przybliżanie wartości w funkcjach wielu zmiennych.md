@@ -4,6 +4,7 @@ Czas stworzenia: "2025-12-17"
 #matematyka  #analiza
 # Definicja
 - Działamy analogicznie jak przy [[Funkcja|funkcjii]] jednej zmiennej ([[Przybliżanie wartości za pomocą różniczek]])
+- [[Rożniczka cząstkowa]]
 - Sumujemy wszystkie [[Pochodna cząstkowa|pochodne cząstkowe]]
 # Wzór
 $$
