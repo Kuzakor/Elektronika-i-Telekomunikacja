@@ -6,6 +6,7 @@ Czas stworzenia: "2025-11-18"
 - [[Liczby zespolone|Liczbę zespoloną]] można zapisać również za pomocą [[Funkcje trygonometryczne|funkcji trygonometrycznych]].
 - Zapis ten opiera się na [[Argument liczby zespolonej|argumencie]]
 - [[Sprzężenie liczby zespolonej]]
+- Innaczej rzecz biorąc [[Współrzędne biegunowe|współrzedne biegunowe]]
 # Wzór
 $$
 z = |z|(\cos \phi + i\sin \phi)
