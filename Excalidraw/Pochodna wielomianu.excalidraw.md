@@ -18,7 +18,7 @@ x ^wmi3grEN
 
 x ^XNbhtAXZ
 
-Zmiana (pochodna) wielkości kwadrata to dodanie 2 prostokątów
+Zmiana ([[Pochodna]]) wielkości kwadrata to dodanie 2 prostokątów
 o rozmiarze x na   . Oraz kwadrata    na   . Z racji że    jest 
 skrajnie małe możemy je pominąć. Kwadrat zmienia się jedynie o te 2
 prostokąty przez co wynik jest równy 2x. ^3GDwiadT

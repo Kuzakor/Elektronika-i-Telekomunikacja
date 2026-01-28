@@ -13,5 +13,5 @@ $$
 $$
 A = \int_{a}^b (x_{p} - x_{l}) dy$$
 # Opis
-- x_p - > funkcja f(y) po naszej *prawej stronie*
-- x_l -> funkcja f(y) po naszej *lewej stronie*
+- x_p - > [[Funkcja]] f(y) po naszej *prawej stronie*
+- x_l -> [[Funkcja]] f(y) po naszej *lewej stronie*

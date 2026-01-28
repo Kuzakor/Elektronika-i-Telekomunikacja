@@ -3,7 +3,7 @@ Czas stworzenia: "2025-11-26"
 ---
 #matematyka #analiza 
 # Co i jak
-- [[Całka|Całkowanie]] [[Funkcja|funkcjii]] [[Funkcje trygonometryczne|trygonometrycznych]] w funkcjach złożonych odbywa poprzez [[Całkowanie poprzed podstawienie|poprzez podstawienie]] lecz trzeba zrobić to sprytnie z racjii że funkcje trygonometryczne *zapętlają się*
+- [[Całka|Całkowanie]] [[Funkcja|funkcjii]] [[Funkcje trygonometryczne|trygonometrycznych]] w funkcjach złożonych odbywa poprzez [[Całkowanie poprzed podstawienie|poprzez podstawienie]] lecz trzeba zrobić to sprytnie z racjii że [[Funkcje trygonometryczne]] *zapętlają się*
 $$
 \int R(\sin x,\cos x)dx
 $$

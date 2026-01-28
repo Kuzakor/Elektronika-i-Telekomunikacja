@@ -18,3 +18,8 @@ $$
 - [[Funkcja|Funkcje]] g(x) i f(x) opisują krzywe na płaszczyźnie xy ograniczające nasz obszar. 
 - a i b to punkty przecięcia tych funkcji
 - ### Kolejność całkowania ma znaczenie
+
+# Zastosowania
+- Objętość
+- [[Objętość między płaszczyznami]]
+- [[Pole płata powierzchniowego]]

@@ -5,7 +5,7 @@ Czas stworzenia: "2025-10-09"
 # Definicja
 - Jest to sposób zakodowania [[System binarny|liczby binarnej]] w taki sposób aby liczby obok siebie różniły się jedynie jednym [[Bit|bitem]].
 - Konwersja stosuje modulo dwa czyli [[Bramki logiczne|bramkę XOR]].
-- Pierwszy bit jest przepisywany
+- Pierwszy [[Bit]] jest przepisywany
 - Innym sposobem jest *odbijanie lustrzane* co jest przydatne w [[Tabela Karnaugh|tabelii karnaugh]]
 # Wzór
 [[Kod Graya.excalidraw]]

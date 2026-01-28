@@ -3,11 +3,11 @@ Czas stworzenia: "2025-09-16"
 ---
 #matematyka #analiza
 # Definicja
-- Pochonda opisuje jak "ostra"  (lub jak bardzo się zmienia) jest [[Funkcja|funkcja]] w danym miejscu. Oznacza to że w maximum i minimum pochodna jest równa 0 , funkcja jest "płaska". 
+- Pochonda opisuje jak "ostra"  (lub jak bardzo się zmienia) jest [[Funkcja|funkcja]] w danym miejscu. Oznacza to że w maximum i minimum pochodna jest równa 0 , [[Funkcja]] jest "płaska". 
 - [[Monotoniczność funkcji]]
 - Można też opisać jako styczną do wykresu w danym miejscu. A dokładniej współczynnik kierunkowy prostej lub [[Funkcje trygonometryczne|tangens]] kąta nachylenia stycznej do osi ox.
 - Pochodna zdefiniowana jest jako [[Granica|granica]] lecz występują wzory ułatwiające jej obliczanie które mogą mieć swoje przedstawienie [[Obliczanie podstawowowych pochodnych a geometria|geometryczne]].
-- #####  Jeżeli funkcja jest rożnicznkowalna w x (można obliczyć pochodną) to jest ciągła w x.
+- #####  Jeżeli [[Funkcja]] jest rożnicznkowalna w x (można obliczyć pochodną) to jest ciągła w x.
 - Jest to iloraz [[Rożniczki|różniczek]]
 - Funkcje bardziej skomplikowane obliczamy według następujących zasad
 	-  [[Pochodna funkcji złożonej]]

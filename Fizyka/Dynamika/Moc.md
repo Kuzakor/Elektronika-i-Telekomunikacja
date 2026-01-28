@@ -7,5 +7,5 @@ Jest to [[Praca]] w czasie.
 # Wzór
 $$P = \frac{W}{t}$$
 # Opis
-W - praca
+W - [[Praca]]
 t - czas

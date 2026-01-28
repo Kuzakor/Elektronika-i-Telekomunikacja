@@ -10,6 +10,6 @@ SEM = -\frac{d}{dt}{\Phi_b}
 $$
 $$|SEM|  = U$$
 # Opis
-Φ - strumień magnetyczny
+Φ - [[Strumień magnetyczny]]
 t - czas
-U - napięcie
+U - [[Napięcie]]

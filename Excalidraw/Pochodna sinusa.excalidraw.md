@@ -20,7 +20,7 @@ dx ^ntuBpSqY
 
 d(sin(x)) ^YCggh7wr
 
-Więc zmiana (pochodna) o dx to cos(x) co wynika
+Więc zmiana ([[Pochodna]]) o dx to cos(x) co wynika
 z trygonometrii w trójkącie prostokątnym ^0LrMH7ZR
 
 %%

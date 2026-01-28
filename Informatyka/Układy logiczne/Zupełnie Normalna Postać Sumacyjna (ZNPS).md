@@ -4,7 +4,7 @@ Czas stworzenia: "2025-10-12"
 #informatyka #układy_logiczne
 # Definicja
 - Każdą [[Funkcja logiczna|funkcję logiczną]] ([[Bramki logiczne|bramkę logiczną]]) można rozłożyć na składniki sumy według następującej zasady.
-- Funkcja logiczna zapisana w ten sposób nazywana jest *postacią kanoniczną* danej funkcjii logicznej
+- [[Funkcja]] logiczna zapisana w ten sposób nazywana jest *postacią kanoniczną* danej funkcjii logicznej
 - Alternatywą jest [[Zupełnie Normalna Postać Iloczynowa (ZNPI)]]
 - Wymagana wiedza z [[Algebra boole'a|algebry bool'a]]
 - [[Implikant i Implicent]]

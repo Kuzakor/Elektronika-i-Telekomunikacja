@@ -9,4 +9,4 @@ D = (-1)^{i+j} \det A_{{ij}}
 $$
 # Opis
 -  i i j to wiersz i kolumna danej macierzy
-- Aij to macierz powstała poprzez wykreślenie i wiersza i j kolomny
+- Aij to [[Macierz]] powstała poprzez wykreślenie i wiersza i j kolomny

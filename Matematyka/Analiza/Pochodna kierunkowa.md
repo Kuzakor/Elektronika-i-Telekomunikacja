@@ -6,7 +6,7 @@ Czas stworzenia: "2025-12-17"
 - [[Pochodna]] kierunkowa jest [[Pochodna cząstkowa|pochodną cząstkową]] w dowolnym kierunku a nie tylko konkretnych osi.
 - W tym celu potrzebujemy [[Wektor|wektor]] jednostkowy (o długości 1) wskazujący kierunek w którym chcemy policzyć pochodną.
 - [[Iloczyn wektorowy]]
-- Pierwszy wektor to tak zwany [[Gradient funkcjii|gradient]]
+- Pierwszy [[Wektor]] to tak zwany [[Gradient funkcjii|gradient]]
 # Wzór
 $$
 \frac{{\partial f}}{ \partial \vec{u}} = \begin{bmatrix}

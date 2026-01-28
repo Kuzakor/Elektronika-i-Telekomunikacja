@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
-wektor początkowy (szukany) ^jW1OPscM
+[[Wektor]] początkowy (szukany) ^jW1OPscM
 
 j-hat ^xT4XXaR0
 
@@ -30,7 +30,7 @@ c         d ^KmBdKENZ
 
 d ^49XyFaK0
 
-wektor końcowy (dany) ^85Mlu20O
+[[Wektor]] końcowy (dany) ^85Mlu20O
 
 e - znane ^PVLM11gI
 

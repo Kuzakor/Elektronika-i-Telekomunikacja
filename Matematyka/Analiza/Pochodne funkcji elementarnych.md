@@ -6,7 +6,7 @@ Czas stworzenia: "2025-11-04"
 - [[Funkcja]] stała $$\frac{d}{dx}(c) = 0$$
 - [[Funkcja potęgowa]] / [[Funkcja wymierna]]
 $$\frac{d}{dx}(x^a) = ax^{a-1}$$
-- [[Funkcja wykładniczna]] w tym funkcja wykładnicza o podstawie [[Liczba eulera (e)|e]]. 
+- [[Funkcja wykładniczna]] w tym [[Funkcja]] wykładnicza o podstawie [[Liczba eulera (e)|e]]. 
 $$\frac{d}{dx}(e^x) = e^x \space \space \space \frac{d}{dx}(a^x) = a^xlna$$
 - [[Logarytm]] ([[Wartość bezwzględna]] z racjii na [[Dziedzina|dziedzinę]])
 $$\frac{d}{dx}(ln|x|) = \frac{1}{x}\space \space \space \frac{d}{dx}(log_a|x|) = \frac{1}{xlna}$$

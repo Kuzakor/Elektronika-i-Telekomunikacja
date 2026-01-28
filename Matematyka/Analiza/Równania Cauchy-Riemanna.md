@@ -15,7 +15,7 @@ $$
 $$
 \frac{{\partial u}}{\partial y} = -\frac{{\partial v}}{\partial x}
 $$
-- Jeżeli te warunki są spełnione to pochodna jest równa
+- Jeżeli te warunki są spełnione to [[Pochodna]] jest równa
 $$
 f'(z) = u_{x}(x,y) + iv_{x}(x,y) = v_{y}(x,y) - iu_{y}(x,y)
 $$

@@ -5,7 +5,7 @@ Czas stworzenia: 2025-10-01
 # Definicja
 - Opisuje czy dana [[Funkcja|funkcja]] w danym przedziale rośnie czy maleje (duh)
 $$x_2>x_1$$
-- Funkcja rosnąca:
+- [[Funkcja]] rosnąca:
 $$f(x_1) < f(x_2)$$
 - Funkcja malejąca:
 $$f(x_1) > f(x_2)$$

@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-17"
 ---
 #fizyka #ruch_harmoniczny
 # Definicja
-Prawo to opisuje [[Prawa dynamiki Newtona (Siły)|siłę]] dziłającą na objekt przyczepiony do sprężyny który porusza się [[Ruch harmoniczny prosty|ruchem harmonicznym]]. 
+Prawo to opisuje [[Prawa dynamiki Newtona (Siły)|siłę]] dziłającą na objekt przyczepiony do [[Sprężyny]] który porusza się [[Ruch harmoniczny prosty|ruchem harmonicznym]]. 
 ### Rysunek
 [[Prawo Hooke_a.excalidraw]]
 # Wzór

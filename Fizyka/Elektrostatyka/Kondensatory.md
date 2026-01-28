@@ -11,7 +11,7 @@ $$C = \frac{Q}{U}$$
 $$C = \epsilon_{0}\epsilon_{r} \frac{S}{d}$$
 # Opis
 Q - ładunek
-U - napięcie
+U - [[Napięcie]]
 ε_0 - przenikalność elektrostatyczna próżni
 ε_r - przenikalność elektrostatyczna substancji
 S - pole powierzchni płytek

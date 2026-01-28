@@ -13,7 +13,7 @@ $$\det\begin{bmatrix} a & b & c\\ d & e & f \\ g & h  & i\end{bmatrix} = aei +dh
 $$
 \det A = D_{11} a_{11} +D_{12}a_{12} + \dots +D_{1n}a_{1n}
 $$
-- W zależnośći od wybranego wiersza obliczamy [[Dopełnienie algebraiczne|dopełnienie algebraiczne]] i mnożymy przez wektor o jeden wymiar mniejszy (wykluczamy rząd i kolumnę z tym punktem)
+- W zależnośći od wybranego wiersza obliczamy [[Dopełnienie algebraiczne|dopełnienie algebraiczne]] i mnożymy przez [[Wektor]] o jeden wymiar mniejszy (wykluczamy rząd i kolumnę z tym punktem)
 # Ułatwienie
 $$
 \det\begin{bmatrix} a & b & c\\ d & e & f \\ g & h  & i\end{bmatrix} = \det \begin{bmatrix} a+xb & b & c\\ d+xe & e & f \\ g+xh & h  & i\end{bmatrix},x \in C

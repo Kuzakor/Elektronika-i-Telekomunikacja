@@ -5,7 +5,7 @@ Czas stworzenia: "2026-01-07"
 # Definicja
 - Odpowiednik [[Logarytm|logarytmu]] w [[Liczby zespolone|liczbach zespolonych]].
 - [[Funkcja zespolona]]
-- Sam z siebie logarytm jest zdefiniowany następująco
+- Sam z siebie [[Logarytm]] jest zdefiniowany następująco
 - [[Argument liczby zespolonej]]
 $$
 ln |z| + i(ϕ + 2kπ) 

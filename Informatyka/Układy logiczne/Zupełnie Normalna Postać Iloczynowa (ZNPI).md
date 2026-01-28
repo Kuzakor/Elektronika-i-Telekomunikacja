@@ -4,7 +4,7 @@ Czas stworzenia: "2025-10-12"
 #informatyka #układy_logiczne
 # Definicja
 - Każdą [[Funkcja logiczna|funkcję logiczną]] ([[Bramki logiczne|bramkę logiczną]]) można rozłożyć na czynniki iloczynu według następującej zasady.
-- Funkcja logiczna zapisana w ten sposób nazywana jest *postacią parakanoniczną* danej funkcjii logicznej
+- [[Funkcja]] logiczna zapisana w ten sposób nazywana jest *postacią parakanoniczną* danej funkcjii logicznej
 - Alternatywą jest [[Zupełnie Normalna Postać Sumacyjna (ZNPS)]]
 - Wymagana wiedza z [[Algebra boole'a|algebry bool'a]]
 - [[Implikant i Implicent]]

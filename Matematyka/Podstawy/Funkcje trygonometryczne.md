@@ -24,7 +24,7 @@ $$sinx = cos(\frac{\pi}{2}-x)$$
 # Rysunek/Wykresy
 - [[Funkcje trygonometryczne.excalidraw]]
 - [[Wykresy funkcji trygonometrycznych.excalidraw]]
-- Sinus jest funkcją [[Parzystość funkcji|nieparzystą]] a cosinus funkcja parzystą
+- Sinus jest funkcją [[Parzystość funkcji|nieparzystą]] a cosinus [[Funkcja]] parzystą
 
 # Wzory
 - [[Wzory redukcyjne dla funkcji trygonometrycznych]]

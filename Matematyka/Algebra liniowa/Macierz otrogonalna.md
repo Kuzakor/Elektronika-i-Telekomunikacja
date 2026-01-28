@@ -7,6 +7,6 @@ Jest to [[Macierz|macierz]] po której zastosowaniu płaszczyzna jedynie zmienia
 [[Macierz transponowana]]# Wzór
 $$A\vec{v} \cdot A\vec{v} = \forall \vec{v} * \vec{w} $$
 # Opis
-A -macierz
-v - jeden wektor
-w - drugi wektor
+A -[[Macierz]]
+v - jeden [[Wektor]]
+w - drugi [[Wektor]]
