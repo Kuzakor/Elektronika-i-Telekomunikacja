@@ -3,7 +3,7 @@ Czas stworzenia: "2025-09-16"
 ---
 #fizyka #prąd 
 # Definicja
-Prawo to opisuje opór jaki napotyka prąd przepływając przez coś. Jednostką jest Ohm.
+Prawo to opsiuje stosunek napięcia do wytworzonego obciążenia regulowane [[Rezystor|rezystorami]]
 # Wzór
 $$R = \frac{U}{I}$$
 $$
