@@ -3,7 +3,7 @@ Czas stworzenia: "2026-01-14"
 ---
 #matematyka  #analiza
 # Definicja
-- [[Całka krzywoliniowa]]
+- [[Całka krzywoliniowa zespolona]]
 - Odcinek  o końcach z1 i  z2
 $$
 z(t) = z_{1} + (z_{2} - z_{1}) t \space \space \space t \in [0,1] 

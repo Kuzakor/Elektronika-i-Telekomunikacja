@@ -11,5 +11,6 @@ $$
 \int_{C} f(z)dz = \int_{a}^b f(z(t)) \ z'(t) dt
 $$
 - Specjalnym przypadkiem całki krzywoliniowej jest [[Całka Cauchyego]]
+- [[Funkcja wektorowa]]
 # Opis
 z(t) - parametryzacja łuku C

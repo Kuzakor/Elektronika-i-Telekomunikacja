@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#fizyka #obwody 
+#matematyka #analiza 
 # Definicja
