@@ -5,6 +5,7 @@ Czas stworzenia: "2026-03-02"
 # Definicja
 - Jest to [[całka]] pojedyncza [[Funkcja wektorowa|funkcjii wektorowej]] z długości [[Pochodna funkcji wektorowej|pochodnej ]]obecnie *dodawanego* wektora
 - [[Krzywa gładka]]
+- [[Wektor]]
 # Wzór
 $$
 L = \int_{\Gamma} dl = \int_{\alpha}^{\beta} |r'(t)| dt

@@ -6,7 +6,7 @@ Czas stworzenia: "2026-03-02"
 - [[Funkcja]] wektorowa zwraca [[Wektor|wektor (punkt)]] 
 - Składa się ona z innych funkcji zależnych od jednego parametru t
 - Parametr t można opisać jako czas lub kroki
-- Pozwala na obliczanie [[Całka krzywoliniowe|całek krzywoliniowych]]
+- Pozwala na obliczanie [[Całka krzywoliniowe nieskierowana|całek krzywoliniowych]]
 - [[Pochodna funkcji wektorowej]]
 - [[Krzywa]]
 - [[Krzywa gładka]]
