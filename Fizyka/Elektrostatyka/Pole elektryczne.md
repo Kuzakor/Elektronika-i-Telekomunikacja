@@ -8,5 +8,5 @@ Czas stworzenia: "2026-03-04"
 - Mianownik wynika z odłegłości ładunku. [[Twierdzenia pitagorasa]]
 - [[Wektor]]
 $$
-\vec{F}(x,y,z) = \frac{1}{4\pi \epsilon (x^2+y^2+z^2)^{3/2}} [xQ,yQ,zQ]
+\vec{E}(x,y,z) = \frac{1}{4\pi \epsilon (x^2+y^2+z^2)^{3/2}} [xQ,yQ,zQ]
 $$
