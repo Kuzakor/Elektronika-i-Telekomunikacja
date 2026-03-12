@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#matematyka #analiza 
+#matematyka #metody_numeryczne
 # Definicja
