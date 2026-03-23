@@ -15,5 +15,5 @@ $$
 $$
 # Zastosowania
 - [[Przybliżanie wartości w funkcjach wielu zmiennych]]
-- [[Gradient funkcjii]]
+- [[Gradient]]
 - [[Ekstrema i punkt siodłowy funkjcii wielu zmiennych]]

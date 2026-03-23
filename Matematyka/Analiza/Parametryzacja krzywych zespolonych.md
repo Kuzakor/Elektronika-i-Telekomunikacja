@@ -12,7 +12,7 @@ $$
 $$
 z(t) = z_{0} + re^{it} \space \space \space t \in[0, 2\pi]
 $$
-- Krzywa dana wzorem y = f(x)
+- [[Krzywa]] dana wzorem y = f(x)
 $$
 z(t) = t+if(t)
 $$

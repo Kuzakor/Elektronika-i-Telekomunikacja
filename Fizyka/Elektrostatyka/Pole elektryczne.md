@@ -3,7 +3,7 @@ Czas stworzenia: "2026-03-04"
 ---
 #matematyka #analiza 
 # Definicja
-- Pole elektryczne opisywane jest za pomocą [[Funkcja wektorowa||funkcjii wektorowej]]
+- Pole elektryczne opisywane jest za pomocą [[Funkcja wektorowa||funkcjii wektorowej]] a dokładniej [[Pole wektorowe|pola wektorowego]]
 - Jest to [[Prawa dynamiki Newtona (Siły)|siła]] jaka działała by na ładunek znajdujący się w tym polu - więc jest to [[Prawo Columba]] podzielone przez q
 - Mianownik wynika z odłegłości ładunku. [[Twierdzenia pitagorasa]]
 - [[Wektor]]

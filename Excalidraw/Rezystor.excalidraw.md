@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
-Rezystor ^pKmCW3EE
+[[Rezystor]] ^pKmCW3EE
 
 %%
 ## Drawing

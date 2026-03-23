@@ -4,7 +4,7 @@ Czas stworzenia: "2026-03-12"
 #matematyka #metody_numeryczne
 # Definicja
 - Metoda bisecji to iteracyjna (przybliżona) znajdowania miejsca zerowego [[Funkcja|funkcji]].
-- Zgodnie z nazwą polega na *dzieleniu na pół* przedziału w którym może znajdować sie funkcja.
+- Zgodnie z nazwą polega na *dzieleniu na pół* przedziału w którym może znajdować sie [[Funkcja]].
 # Kod/Wzór
 ```python
 def f: 

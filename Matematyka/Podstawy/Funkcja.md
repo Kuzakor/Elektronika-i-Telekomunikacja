@@ -5,7 +5,7 @@ Czas stworzenia: "2025-10-01"
 # Definicja
 - Funkcja przypisuje każdej wartości zawartej w jej [[Dziedzina|dziedzinie]] konkretną wartość. Zbiór tych wartości nazywany jest *zbiorem wartośći*.
 - Wykres funkcji to wszystkie punkty (x,y) takich że f(x) = y
-- Nie każda krzywa to funkcja, np. okrąg
+- Nie każda [[Krzywa]] to funkcja, np. okrąg
 - Własności funkcji
 	- [[Parzystość funkcji]]
 	- [[Monotoniczność funkcji]]

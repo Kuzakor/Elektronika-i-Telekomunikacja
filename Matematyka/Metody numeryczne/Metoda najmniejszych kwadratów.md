@@ -4,7 +4,7 @@ Czas stworzenia: "2026-03-12"
 #matematyka #metody_numeryczne
 # Definicja
 - Jest to metoda aproksymacji [[Funkcja|funkcji]] mając dyskretny zbiór punktów. 
-- Funkcja ta będzie liniowa
+- [[Funkcja]] ta będzie liniowa
 # Wzór
 $$
 f(x) = ax+b

@@ -6,7 +6,7 @@ Czas stworzenia: "2026-03-04"
 - Metoda ta służy do wyliczenia [[Natężęnie|natężenia]] lub ewentualnie [[Napięcie|napięcia]] płynącego przez dane oczko.
 - Po zaznaczeniu oczek tworzymy następująca [[Macierz|macierz]] opisującą [[Macierz w rozwiązywaniu liniowych układów równań|układ równań]]. 
 - -R to [[Rezystor|rezystory]] sąsiadujące z oczkami o indeksie odpowiadającej kolumnie.
-- Macierz wyrazów wolnych to napięcia w poszczególnych oczkach.
+- [[Macierz]] wyrazów wolnych to napięcia w poszczególnych oczkach.
 $$
 \begin{bmatrix}
 \sum R_{1} & -R_{2} &-R_{3} &\dots &-R_{n} \\
