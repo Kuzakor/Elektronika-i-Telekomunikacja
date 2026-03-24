@@ -4,7 +4,7 @@ Czas stworzenia: "2025-09-16"
 #matematyka #analiza 
 # Definicja
 - Całka opisuje pole pod wykresem danej [[Funkcja|funkcji]]. Jest to nieskończona suma nieskończenie małych prostokątów które nam to pole określają.
-- Z racji że wielkość tych prostokątów dąży do 0 to mamy do czynienia z[[Rożniczki| rożniczką]] dx. 
+- Z racji że wielkość tych prostokątów dąży do 0 to mamy do czynienia z[[Róniczki| rożniczką]] dx. 
 - Szerokość owego prostokąta to dx a wysokość to f(x)
 - [[Granica]]
 $$

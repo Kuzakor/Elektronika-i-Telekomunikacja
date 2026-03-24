@@ -8,7 +8,7 @@ Czas stworzenia: "2025-09-16"
 - Można też opisać jako styczną do wykresu w danym miejscu. A dokładniej współczynnik kierunkowy prostej lub [[Funkcje trygonometryczne|tangens]] kąta nachylenia stycznej do osi ox.
 - Pochodna zdefiniowana jest jako [[Granica|granica]] lecz występują wzory ułatwiające jej obliczanie które mogą mieć swoje przedstawienie [[Obliczanie podstawowowych pochodnych a geometria|geometryczne]].
 - #####  Jeżeli [[Funkcja]] jest rożnicznkowalna w x (można obliczyć pochodną) to jest ciągła w x.
-- Jest to iloraz [[Rożniczki|różniczek]]
+- Jest to iloraz [[Róniczki|różniczek]]
 - Funkcje bardziej skomplikowane obliczamy według następujących zasad
 	-  [[Pochodna funkcji złożonej]]
 	-  Pochodna sumy to to samo co suma pochodnych

@@ -1,0 +1,15 @@
+---
+Czas stworzenia: "2026-03-24"
+---
+#matematyka #prawdopodobieństwo 
+# Definicja
+- Jest to [[Funkcja|funkcja]] będąca [[Pochodna|pochodną]] dystrybuanty więc [[Całka|całka]] z niej to [[Dystrybuanta|dystrybuanta]]. 
+- W miejsach gdzie dystybuanta nie jest ciągła, jest to wyskalowana [[Delta Diraca|delta diraca]].
+- Z niewiadomych mi względów nie jest to całka nieoznaczona tylko taki "twór"
+# Wzór
+$$
+\frac{dF_{\underline{X}}(x)}{dx} = p(x)
+$$
+$$
+\int_{-\infty} ^x p(u)du
+$$
