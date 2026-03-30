@@ -6,6 +6,7 @@ Czas stworzenia: "2025-12-19"
 - Jest to sposób na [[Macierz w rozwiązywaniu liniowych układów równań|rozwiązywanie ukladów równań liniowych]] oraz obliczania [[Macierz|macierzy odwrotnej]]
 - Polega ona na sprowadzeniu [[Macierz|macierzy]] do tak zwanej *postaci schodkowej* czyli w każdej kolumnie i wierszu powinna znajdować się jedna jedynka a reszta to zera.
 - [[Działania elementarne]]
+- Podobne metody: [[Dekompozycja LU]], [[Wzory Cramer'a|wzory Cramera]]
 # Macierz odwrotna
 - Przy obliczaniu macierzy odwrotnej chcemy sprowadzić [[Macierz]] do bardzo specyficznej *postaci schodkowej* wyglądającej jak [[Macierz]] jednostkowa. Po drugiej stronie pojawi nam się [[Macierz]] odwrotna
 $$

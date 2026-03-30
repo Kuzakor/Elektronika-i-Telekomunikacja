@@ -5,6 +5,7 @@ Czas stworzenia: 2026-03-12
 # Definicja
 - Jest to metoda iteracyjne rozwiązywania [[Macierz w rozwiązywaniu liniowych układów równań|równań liniowych]].
 - Bardzo podobna do [[Metoda Jackobiego|metody jackobiego]]
+- Obie są metodami iteracyjnymi rozwiązywania układów równań
 - Wynik nie jest dokładny, jest przybliżony
 # Wzór
 $$

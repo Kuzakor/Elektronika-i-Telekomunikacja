@@ -3,8 +3,9 @@ Czas stworzenia: "2026-03-24"
 ---
 #matematyka #prawdopodobieństwo 
 # Definicja
-- Jest to [[Funkcja|funkcja]] będąca [[Pochodna|pochodną]] dystrybuanty więc [[Całka|całka]] z niej to [[Dystrybuanta|dystrybuanta]]. 
-- W miejsach gdzie dystybuanta nie jest ciągła, jest to wyskalowana [[Delta Diraca|delta diraca]].
+- Jest to [[Funkcja|funkcja]] będąca [[Pochodna|pochodną]] [[Dystrybuanta|dystrybuanty]] więc [[Całka|całka]] z niej to [[Dystrybuanta|dystrybuanta]].
+- Jest zdefiniowana dla [[Zmienna losowa|zmiennej losowej]].
+- W miejsca gdzie dystybuanta nie jest ciągła, jest to wyskalowana [[Delta Diraca|delta diraca]].
 - Z niewiadomych mi względów nie jest to całka nieoznaczona tylko taki "twór"
 # Wzór
 $$

@@ -4,6 +4,7 @@ Czas stworzenia: "2025-12-09"
 #informatyka #układy_logiczne
 # Rysunek
 - Aby stworzyć fizyczny [[Układ sekwencyjny|układ sekwencyjny]] należy
+- Implementacja wykorzystuje [[Bramki logiczne]] i [[Algebra boole_a|algebrę Boole'a]]
 	- Rozpisać schemat *strzałkowy* układy wraz z stanami oraz zdecydować się na jeden z modelii
 		- [[Model Moore'a]]
 		- [[Model Mealy'ego]]

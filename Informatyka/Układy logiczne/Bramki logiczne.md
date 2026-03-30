@@ -6,6 +6,8 @@ Czas stworzenia: "2025-10-08"
 - Istnieje kilka różnych bramek logicznych. Każda z nich zwraca jedno wyjście ([[Bit]]) oraz przyjmuje jedno lub dwa wejścia ([[Bit]]).
 - Jest to [[Funkcja logiczna|funkcja logiczna]]. [[Funkcja]] nie jest ograniczona do 2 wejść
 - Bramki NOR or NAND są specyficzne za pomocą nich można przedstawić *KAŻÐĄ* inną bramkę.
+- Opierają się na [[Algebra boole_a|algebrze Boole'a]]
+- Służą do budowy [[Układ kombinacyjny|układów kombinacyjnych]] i [[Układ sekwencyjny|układów sekwencyjnych]]
 # Bramki
 - *AND* ->  && 
 	- 00 -> 0

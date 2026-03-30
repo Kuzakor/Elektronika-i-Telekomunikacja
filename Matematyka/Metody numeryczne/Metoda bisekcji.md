@@ -5,6 +5,7 @@ Czas stworzenia: "2026-03-12"
 # Definicja
 - Metoda bisecji to iteracyjna (przybliżona) znajdowania miejsca zerowego [[Funkcja|funkcji]].
 - Zgodnie z nazwą polega na *dzieleniu na pół* przedziału w którym może znajdować sie [[Funkcja]].
+- Podobne metody: [[Metoda siecznych]], [[Metoda.stycznych (Newtona)|metoda Newtona]]
 # Kod/Wzór
 ```python
 def f: 

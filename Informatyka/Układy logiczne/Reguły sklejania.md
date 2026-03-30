@@ -5,6 +5,8 @@ Czas stworzenia: "2025-10-17"
 # Definicja
 - Jest to sposób na algorytmiczną *minimalizację* (uproszczenie) [[Funkcja logiczna|funkcji logicznej]] zapisaną w [[Zupełnie Normalna Postać Sumacyjna (ZNPS)|postaci kanonicznej]] lub [[Zupełnie Normalna Postać Iloczynowa (ZNPI)|parakanonicznej]] - notacja w [[Algebra boole'a|algebrze boole'a]].
 - Jeżeli dwa kawałki w danym iloczynie bądz sumie rożnią się tylko jedną zmienną tak że w jednej jest wartość normalna a w drugim [[Bramki logiczne|zanegowana]] to tej zmiennej można się "pozbyć".
+- Geometrię tego procesu przedstawia [[Tabela Karnaugh|tabela Karnaugh]]
+- Związane z [[Implikant i Implicent|implikantami i implicentami]]
 # Wzór
 - Dla ZNPS $$Ax+A\overline{x} = A$$
 - Dla ZNPI$$(A+x)*(A+\overline{x}) = A$$

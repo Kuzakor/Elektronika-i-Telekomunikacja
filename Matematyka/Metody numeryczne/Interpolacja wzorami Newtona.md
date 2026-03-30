@@ -5,6 +5,7 @@ Czas stworzenia: "2026-03-19"
 # Definicja
 - Wynika z [[Metoda wielomianów Lagrangea]]
 - Jest to metoda interpolacji [[Funkcja|funkcji]]
+- Powiązana z [[Metoda najmniejszych kwadratów|metodą najmniejszych kwadratów]]
 # Wzór
 $$
 P(x) = a_{0} + a_{1}(x-x_{0})+a_{2}(x-x_{0})(x-x_{1}) + \dots

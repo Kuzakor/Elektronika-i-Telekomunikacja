@@ -10,4 +10,5 @@ $$f(x_1) < f(x_2)$$
 - Funkcja malejąca:
 $$f(x_1) > f(x_2)$$
 # Wzór
+- Związana z [[Granica|granicami]] i [[Pochodna|pochodnymi]]
 $$\frac{f(x_2) - f(x_1)}{x_2-x_1} > 0  \space aby \space rosła <0 \space aby \space malała$$

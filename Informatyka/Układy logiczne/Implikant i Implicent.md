@@ -9,3 +9,5 @@ Czas stworzenia: "2025-11-02"
 - Więc
 	- Implikant - [[Zupełnie Normalna Postać Sumacyjna (ZNPS)]]
 	- Implikant - [[Zupełnie Normalna Postać Iloczynowa (ZNPI)]]
+- Oparte na [[Algebra boole_a|algebrze Boole'a]]
+- Stosowane przy [[Reguły sklejania|regułach sklejania]] i [[Tabela Karnaugh|tabeli Karnaugh]]

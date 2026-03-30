@@ -8,6 +8,7 @@ $$x^2 - y^2 = 1$$
 - Ich wzory opisane są za pomocą [[Funkcja wykładniczna|funkcjii wykładniczej]] i bazują na [[Liczba eulera (e)|e]]
 - [[Funkcje odwrotne do hyperbolicznych]]
 - Nie licząc jedynki trygonometrycznej zachodzą wszystkie własności [[Funkcje trygonometryczne|funkcjii trygonometrycznych]]
+- [[Twierdzenia pitagorasa]] ma swoją hiperboliczną wersję: cosh²x - sinh²x = 1
 # Wzór
 $$sinhx = \frac{e^x - e^{-x}}{2}$$
 $$coshx = \frac{e^x + e^{-x}}{2}$$

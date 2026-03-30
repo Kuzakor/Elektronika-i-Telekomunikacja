@@ -4,6 +4,7 @@ Czas stworzenia: "2026-03-12"
 #matematyka #metody_numeryczne
 # Definicja
 - Jest to metoda iteracyjne rozwiązywania [[Macierz w rozwiązywaniu liniowych układów równań|równań liniowych]].
+- Podobna do [[Metoda Gaussa-Seidlera|metody Gaussa-Seidlera]]
 - Wynik nie jest dokładny, jest przybliżony
 # Wzór
 $$

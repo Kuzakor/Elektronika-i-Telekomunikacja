@@ -5,6 +5,8 @@ Czas stworzenia: "2025-09-26"
 # Definicja
 - Jest to [[Funkcja odwrtona|odwrotność]] [[Funkcja wykładniczna|funkcjii wykładniczej]]
 - Posiada [[Asymptoty|asymptotę pionowa]] w x = 0
+- Specjalny przypadek: [[Liczba eulera (e)|liczba eulera]] jako podstawa
+- [[Ciąg geometryczny|Szeregi geometryczne]] wykorzystują logarytmy
 # Rysunek
 [[Logarytm.excalidraw]]
 # Wzór

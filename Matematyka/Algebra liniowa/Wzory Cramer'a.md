@@ -4,6 +4,7 @@ Czas stworzenia: "2025-09-23"
 #matematyka #algebra_liniowa
 # Definicja
 - Wzory Cramer'a pozwalają rozwiązywać [[Macierz w rozwiązywaniu liniowych układów równań| liniowe układy równań z wykorzystaniem macierzy]] bez obliczania [[Odwrotna macierz|odwrotnej macierzy]].
+- Podobne metody: [[Eliminacja Gaussa]], [[Dekompozycja LU]]
 # Wzór
 $$\begin{cases}  2x+5y = -3 \\ 4x+0y = 0 \end{cases} \Rightarrow \begin{bmatrix} 2 & 5 \\ 4 & 0\end{bmatrix}\begin{bmatrix} x \\ y  \end{bmatrix} = \begin{bmatrix} -3 \\ 0 \end{bmatrix}$$
 - Dla każdej obliczanej wspołrzędnej obliczamy pole równoległoboka przed [[Macierz|zastosowaniem macierzy]]. 

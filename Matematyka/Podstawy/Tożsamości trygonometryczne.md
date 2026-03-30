@@ -5,6 +5,7 @@ Czas stworzenia: "2025-10-08"
 # Definicja
 - Istnieje wiele wzorów które ułatwiają rozwiązywanie równań trygonometrycznych.
 - Można je wyznaczyć za pomocą między innymi [[Twierdzenia pitagorasa|tw. pitagorasa]] w [[Funkcje trygonometryczne|okręgu na którym są zdefiniowane funkcje trygonometryczne]]
+- Powiązane z [[Wzory redukcyjne dla funkcji trygonometrycznych|wzorami redukcyjnymi]]
 # Wzór
 $$sin^2\alpha+cos^2\beta = 1$$
 $$sin(\alpha\pm\beta)=sin\alpha cos\beta\pm cos\alpha sin\beta$$

@@ -9,8 +9,9 @@ Czas stworzenia: "2025-10-19"
 - Dla każdej z tych grup patrzymy które zmienne pozostają takie same dla każdej z jedynek.
 - Do wzoru w postaci [[Algebra boole_a|boolowskiej]] w systemie [[Zupełnie Normalna Postać Sumacyjna (ZNPS)|znps]] spisujemy tą zmienną.
 - Jeżeli jest ona równa 0 wpisujemy jej zanegowaną wersję. 
-- Po zapisaniu wszystkich zmiennych (iloczyn) przechodzimy do następnej grupy i powtarzamy. Wynik dodajemy do poprzednego.
+- Po zapisaniu wszystkich zmiennych (iloczyn) przechodzimy do następnej grupy i powtarzamy. Wynik dodajemy do poprzedniego.
 - Dla [[Zupełnie Normalna Postać Iloczynowa (ZNPI)|znpi]] postępujemy analogicznie lecz łączać 0. I negując przy 1.
 - Działa to dzięki [[Reguły sklejania|regule sklejania]]
+- Służy do minimalizacji [[Układ kombinacyjny|układów kombinacyjnych]] i [[Układ sekwencyjny|układów sekwencyjnych]]
 # Przykład
 [[Tabela Karnaugh.excalidraw]]

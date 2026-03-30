@@ -6,6 +6,7 @@ Czas stworzenia: "2025-11-25"
 - Jest to sformalizowana wersja tego samego systemu opisanego w "[[Minimalizacja liczby stanów układów sekwencyjnych]]".
 - Jest to sposób algorytmiczny czyli taki który możemy napisać w kodzie.
 - Działa zarówno dla [[Model Moore_a|modelu moora]] jak i [[Model Mealy_ego|modelu mealeygo]]
+- Implementacja wymaga [[Przerzutnik|przerzutników]] i [[Bramki logiczne|bramek logicznych]]
 - Działa on następująco
 	- [[Tabela trójkątna]]
 	- [[Technika wielokątów]]

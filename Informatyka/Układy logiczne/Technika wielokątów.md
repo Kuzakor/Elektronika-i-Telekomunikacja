@@ -6,6 +6,7 @@ Czas stworzenia: "2025-11-25"
 - II etap [[Sposób algorytmiczny minimalizacji układów sekwencyjnych|Algorytmicznej minimalizacji układów sekwencyjnych]]
 - Rysujemy na okręgu wszystkie stany w danym [[Układ sekwencyjny|układzie sekwencyjnym]]. 
 - Łączymy ja na bazie wyników w [[Tabela trójkątna|tabelii trójkątnej]]. [[Minimalizacja liczby stanów układów sekwencyjnych| Zgodność]] -> połączenie.
+- Podobna do [[Tabela Karnaugh|tabeli Karnaugh]] jako metoda geometrycznej minimalizacji
 - Zaznaczamy wszystkie zamknięte wielokoąty. 
   ### WAŻNE: ZAMKNIĘTE WIELOKĄTY TO TAKIE GDZIE KAŻDY PUNKT ŁĄCZY SIĘ Z KAŻDYM
 - Wierzchołki danego wielokąta uznajemy jako nowy stan i przechodzimy do [[Ostateczne wykreślanie stanów|ostatniego etapu]].

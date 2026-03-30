@@ -8,6 +8,7 @@ Czas stworzenia: "2025-10-12"
 - Alternatywą jest [[Zupełnie Normalna Postać Sumacyjna (ZNPS)]]
 - Wymagana wiedza z [[Algebra boole'a|algebry bool'a]]
 - [[Implikant i Implicent]]
+- Służy do syntezy [[Układ kombinacyjny|układów kombinacyjnych]]
 # Wzór
 $$f
 (x_1,x_2,x_3,..x_n) = [x_1+f(1,x_2,x_3...,x_n)] [\overline{x}+f(0,x_2,x_3,...x_n)]$$

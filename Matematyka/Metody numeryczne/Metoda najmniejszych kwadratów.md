@@ -5,6 +5,7 @@ Czas stworzenia: "2026-03-12"
 # Definicja
 - Jest to metoda aproksymacji [[Funkcja|funkcji]] mając dyskretny zbiór punktów. 
 - [[Funkcja]] ta będzie liniowa
+- Powiązane metody: [[Metoda wielomianów Lagrangea|interpolacja Lagrange'a]], [[Interpolacja wzorami Newtona|interpolacja Newtona]]
 # Wzór
 $$
 f(x) = ax+b

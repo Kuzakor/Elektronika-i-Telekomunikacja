@@ -4,6 +4,9 @@ Czas stworzenia: "2025-10-07"
 #informatyka #układy_logiczne
 # Definicja
 - Układy sekwencyjne działają w podobny spsób co [[Układ kombinacyjny|układy kombinacyjne]] z taką różnicą, że zawierają jeszcze zmienny stan od którego zależy wynik.
+- Ich działanie opiera się na [[Algebra boole'a|algebrze Boole'a]] oraz [[Bramki logiczne|bramkach logicznych]].
+- [[Sprzężenie zwrotne|Sprzężenie zwrotne]] umożliwia pamiętanie stanu.
+- [[Kodowanie stanów|Kodowanie stanów]] pozwala na reprezentację stanów w [[Bit|bitach]].
 ``` c++
 układ.stan = 'alpha'
 switch układ.stan {

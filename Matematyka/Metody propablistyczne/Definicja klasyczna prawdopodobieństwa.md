@@ -10,3 +10,4 @@ $$
 - n_A - zdarzenia elementarne w A
 - n - wszystkie zdarzenia elementarne
 - [[Definicja częstościowa prawdopodobieństwa]]
+- Obie definicje są podstawą [[Aksjomaty prawdpodobieństwa|aksjomatów prawdopodobieństwa]]

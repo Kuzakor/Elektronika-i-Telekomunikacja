@@ -8,3 +8,4 @@ Czas stworzenia: "2025-11-25"
 - Ograniczają nas dwie rzeczy
 	- Każdy oryginalny stan musi występować minimum raz
 	- Układ musi dalej działać, nie możemy wykreślić stanu który powoduje zepsucie innego.
+- Podobne do [[Tabela Karnaugh|minimalizacji Karnaugh]]

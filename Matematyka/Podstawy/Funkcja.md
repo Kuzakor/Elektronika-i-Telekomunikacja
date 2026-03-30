@@ -6,6 +6,9 @@ Czas stworzenia: "2025-10-01"
 - Funkcja przypisuje każdej wartości zawartej w jej [[Dziedzina|dziedzinie]] konkretną wartość. Zbiór tych wartości nazywany jest *zbiorem wartośći*.
 - Wykres funkcji to wszystkie punkty (x,y) takich że f(x) = y
 - Nie każda [[Krzywa]] to funkcja, np. okrąg
+- [[Ciąg]] to funkcja o dziedzinie N
+- [[Wielomian]] to specyficzny typ funkcji
+- [[Logarytm]], [[Funkcje trygonometryczne]], [[Funkcja sigmum]] to przykłady funkcji
 - Własności funkcji
 	- [[Parzystość funkcji]]
 	- [[Monotoniczność funkcji]]

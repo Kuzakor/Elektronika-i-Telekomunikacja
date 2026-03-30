@@ -7,3 +7,4 @@ Czas stworzenia: "2026-03-05"
 - Polega on na rodzieleniu [[Macierz|macierzy]] współczynników na dwie macierze trójkątne - "upper" i "lower". 
 - Na podstawie tych dwóch macierzy możemy uzyskac [[Macierz]] pomocniczą Q
 - Korzystając z nowej macierzy możemy łatwo rozwiązać równanie - do uzupełnienia.
+- Powiązane z [[Działania elementarne|działaniami elementarnymi]]

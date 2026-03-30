@@ -7,6 +7,7 @@ Czas stworzenia: "2025-10-06"
 - Jest on ulepszoną wersją [[Kod U1|kodu U1]], który jest rzadko używany
 - Liczbę zapisujemy zawsze na osmiu [[Bit|bitach]] (1 bajt)
 - Zapis liczb dodatnich jest identyczny jak w przypadku [[Znak moduł systemu binarnego (ZM)|ZM]].
+- Alternatywy: [[Znak moduł systemu binarnego (ZM)|ZM]]
 $$(01101)_{ZM} = (00001101)_{U2}=+13$$
 - Zapis liczb ujemnych jest bardziej skomplikowany
 	- Jest to [[Bramki logiczne|negacja]] wszystkich bitów

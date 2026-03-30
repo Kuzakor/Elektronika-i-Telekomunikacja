@@ -4,6 +4,9 @@ Czas stworzenia: "2025-10-09"
 #matematyka #podstawy
 # Definicja
 Jest to [[Ciąg|ciąg]] w którym poszczególne wartości są iloczynem o jakaś konkretną stałą (np. 3)
+- Alternatywą jest [[Ciąg arytmetyczny|ciąg arytmetyczny]]
+- [[Granica]] ciągu geometrycznego zależy od ilorazu q
+- Szereg geometryczny pojawia się w kontekście [[Logarytm|logarytmów]]
 $$3,9,27,81,...$$
 # Wzór
 $$a_n = qa_{n-1}$$

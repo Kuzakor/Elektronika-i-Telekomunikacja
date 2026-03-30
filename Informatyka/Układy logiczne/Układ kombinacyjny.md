@@ -7,8 +7,10 @@ Czas stworzenia: "2025-10-07"
 - Są one podobne w swoim założeniu do [[Funkcja|funkcji]] znanych z matematyki, tzn. to same wejście (x) da nam *zawsze* takie samo wyjście (y).
 - Zarówno wyjście jak i wejście to pojedyncze [[Bit|bity]].
 - Jest to rodzaj [[Funkcja logiczna|funkcjii logicznej]]
+- Oparte na [[Algebra boole_a|algebrze Boole'a]] i [[Bramki logiczne|bramkach logicznych]]
+- Przeciwieństwem są [[Układ sekwencyjny|układy sekwencyjne]], które wykorzystują [[Przerzutnik|przerzutniki]] do pamiętania stanu.
 - Wejscia przekazywane są co stały czas. 
-##### WAŻNE: To samo wejście da nam ZAWSZE takie samo wyjście. Przeciwieństwem są [[Układ sekwencyjny|układy sekwencyjne]]
+##### WAŻNE: To samo wejście da nam ZAWSZE takie samo wyjście.
 
 # Synteza
 1. Opis słowny

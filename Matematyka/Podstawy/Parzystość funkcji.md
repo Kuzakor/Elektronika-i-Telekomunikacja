@@ -9,3 +9,4 @@ $$f(x) = f(-x)$$
 $$f(-x) = -f(x)$$
 ### Rysunek
 [[Parzystość funkcji.excalidraw]]
+- [[Okresowość funkcji|Okresowość]] jest własnością [[Funkcje trygonometryczne|funkcji trygonometrycznych]]

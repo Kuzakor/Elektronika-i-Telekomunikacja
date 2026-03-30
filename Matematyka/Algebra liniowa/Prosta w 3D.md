@@ -4,6 +4,7 @@ Czas stworzenia: "2026-01-13"
 #matematyka  #algebra_liniowa 
 # Definicja
 - Prosta w 3D może zostać przedstawiona na 3 sposoby
+- Powiązana z [[Płaszczyzna w 3D|płaszczyzną w 3D]]
 - Postać [[Wektor|wektorowa]]
 $$
 [x,y,z] = [x_{0}, y_{0}, z_{0}] + t[a,b,c]

@@ -9,6 +9,8 @@ Czas stworzenia: "2025-10-10"
 	3. Negacja zapisana jest w postaci kreski nad daną zmienną
 	4. Bramka *XOR* zapisana jest w postaci plusa w kółku
 - Za pomocą tego zapisu można opisać dowolnoą [[Funkcja logiczna|funkcję logiczną]]
+- Jest podstawą [[Układ kombinacyjny|układów kombinacyjnych]] i [[Układ sekwencyjny|układów sekwencyjnych]]
+- Operuje na [[Bit|bitach]] w [[System binarny|systemie binarnym]]
 - Za pomocą poniższych tożsamości można uprościć daną funkcję co upraszcza jej analizę
 # Tożsamości
 - Inne
