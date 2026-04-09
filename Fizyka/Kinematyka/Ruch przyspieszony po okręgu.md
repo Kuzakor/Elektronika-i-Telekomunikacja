@@ -3,18 +3,18 @@ Czas stworzenia: "2025-09-16"
 ---
 #fizyka #kinematyka 
 # Co i jak
-Przyspieszenie po okręgu składa się z dwóch składowych. Z [[Ruch jednostajny przyspieszony|przyspieszenia liniowego]] oraz z przyspiespieszenia dośrodkowego. Przyspiesznie kątowe jest takie samo dla wszystkich punktów w okręgu.
+- Przyspieszenie po okręgu składa się z dwóch składowych. Z [[Ruch przyspieszony prostoliniowy|przyspieszenia liniowego]] oraz z przyspiespieszenia dośrodkowego. Przyspiesznie kątowe jest takie samo dla wszystkich punktów w okręgu.
+- Ruch opisujemy takim samym wzorem co w [[Ruch przyspieszony prostoliniowy| ruchu prostoliniowym]]
+- Aby przechodzić między oba ruchami odpowiednio mnożymy lub dzelimy przez 2pi / promień
 ### Rysunek
 [[Ruch przyspieszony po okręgu.excalidraw]]
-# Wzór
-$$a_{d}= \frac {v^2}{R}$$
-$$a = \frac{\Delta v}{t}$$
-$$a_{w}= \sqrt{a^{2}+a_d^2}$$
-$$\epsilon = \frac{a}{R} = \frac{\Delta \omega}{t}$$
-# Opis
-v - [[Ruch jednostajny prostoliniowy|prędkość]]
-R - promień okręgu
-t - czas
-w - [[Ruch jednostajny po okręgu|prędkość kątowa]]
-
-Trzeci wzór wynika z [[Twierdzenia pitagorasa|twierdzenia pitagorasa]].
+# Wzory
+$$
+a_{d} = \frac{v^2}{R} = \omega^2R
+$$
+$$
+\phi(t) = \phi_{0} +\phi_{0}t + \frac{1}{2}\phi_{0} \epsilon t^2
+$$
+$$
+\omega(t) = \frac{d\phi(t)}{dt}
+$$

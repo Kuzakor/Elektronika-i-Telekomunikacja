@@ -8,7 +8,7 @@ Czas stworzenia: "2025-09-09"
 $$
 \sum\limits \vec{F}= 0 \Rightarrow v=const
 $$
-- Jeżeli siły się nie równowarzą to na objekt działa siła równa iloczynowi [[Ruch jednostajny przyspieszony|przyspiesenia]] (a) oraz masy (m)
+- Jeżeli siły się nie równowarzą to na objekt działa siła równa iloczynowi [[Ruch przyspieszony prostoliniowy|przyspiesenia]] (a) oraz masy (m)
 $$
 \vec{F_{w}}= am
 $$

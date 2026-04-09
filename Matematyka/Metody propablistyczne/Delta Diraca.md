@@ -5,7 +5,7 @@ Czas stworzenia: "2026-03-24"
 # Definicja
 - Jest to pseudo-[[Funkcja|funkcja]] nieistniejąca w matematyce ale wykorzystywana w innych przedmiotach
 - Definiuje się ją następującym wzorem oraz [[Całka|całką]]
-- Pojawia się w [[Gęstość prawodopodobieństwa|gęstości prawdopodobieństwa]] dla rozkładów dyskretnych
+- Pojawia się w [[Gęstość prawdopodobieństwa|gęstości prawdopodobieństwa]] dla rozkładów dyskretnych
 - Związana z [[Cyrkulacja pola wektorowego|całkami krzywoliniowymi]]
 # Wzór
 $$

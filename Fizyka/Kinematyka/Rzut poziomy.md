@@ -4,7 +4,7 @@ Czas stworzenia: "2025-09-08"
 #fizyka #kinematyka
 
 # Co i jak
-W rzucie poziomym występuje zarówno [[Ruch jednostajny prostoliniowy]] (oś pozioma) jak i [[Ruch jednostajny przyspieszony]] w takiej samej postaci co w [[Spadek swobodny|spadku swobodnym]] (oś pionowa).
+W rzucie poziomym występuje zarówno [[Ruch jednostajny prostoliniowy]] (oś pozioma) jak i [[Ruch przyspieszony prostoliniowy]] w takiej samej postaci co w [[Spadek swobodny|spadku swobodnym]] (oś pionowa).
 ### Rysunek
 [[Rzut poziomy.excalidraw]]. 
 # Wzory

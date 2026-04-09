@@ -1,5 +1,5 @@
 ---
-Czas stworzenia: "2026-03-24"
+Czas stworzenia: "2026-03-31"
 ---
 #matematyka #prawdopodobieństwo 
 # Definicja
