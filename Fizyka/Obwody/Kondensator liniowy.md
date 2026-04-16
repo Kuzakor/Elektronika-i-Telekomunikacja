@@ -11,6 +11,7 @@ Czas stworzenia: "2026-04-09"
 - Kondesantory łączymy odwrotnie niż [[Rezystor|rezystory]]: [[Połączenie równolegle a połączenie szeregowe]]
 - Pojemność wyrażana jest w Faradach
 - Kondesator nigdy nie naładuje się "w całości"
+- Rozładowując się zachowuje się jak [[Źrodło napięciowe|źródło napięciowe]]
 # Wzory
 $$
 i(t) = \frac{dq(t)}{dt} =C \frac{dU(t)}{dt}

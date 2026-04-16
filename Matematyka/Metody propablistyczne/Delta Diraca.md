@@ -6,7 +6,7 @@ Czas stworzenia: "2026-03-24"
 - Jest to pseudo-[[Funkcja|funkcja]] nieistniejąca w matematyce ale wykorzystywana w innych przedmiotach
 - Definiuje się ją następującym wzorem oraz [[Całka|całką]]
 - Pojawia się w [[Gęstość prawdopodobieństwa|gęstości prawdopodobieństwa]] dla rozkładów dyskretnych
-- Związana z [[Cyrkulacja pola wektorowego|całkami krzywoliniowymi]]
+- Związana z [[Cyrkulacja pola wektorowego|całkami krzywoliniowymi]] oraz [[Sygnał|sygnałami]]
 # Wzór
 $$
 \delta =\begin{cases} \infty, \space x=0 \\

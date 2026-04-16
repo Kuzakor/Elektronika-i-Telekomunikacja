@@ -9,6 +9,7 @@ Czas stworzenia: "2026-03-30"
 - Liczy się je według następującego wzoru korzystając z [[Wektor|iloczynu skalarnego]] pozwaląjącego *nałożyć* wekotry pola na krzywą
 - [[Pochodna funkcji wektorowej]]
 - Alternatywnym sposobem obliczania tych całek jest skorzystanie z [[Potencjał pola wektorowego|potencjału pola]]
+- [[Twierdzenie Greena]]
 # Wzór
 $$ 
 \int_{\Gamma} \vec{F} \cdot d\vec{r} = \int_{\Gamma} \vec{F}\cdot \vec{T} dl = \int _{a}^b\vec{F} \cdot \vec{r}'(t) dt
