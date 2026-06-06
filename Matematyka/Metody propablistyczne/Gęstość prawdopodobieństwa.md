@@ -14,3 +14,6 @@ $$
 $$
 \int_{-\infty} ^x p(u)du
 $$
+$$
+\int^\infty_{-\infty} p(x)dx = 1
+$$
