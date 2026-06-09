@@ -11,6 +11,8 @@ Czas stworzenia: "2026-05-26"
 - Równania różniczkowe możemy podzielić na wiele rodzajów a każdy ma swój sposób rozwiązywania
 # Rodzaje
 - [[Równanie różniczkowe o rozłącznych zmiennych]]
+- [[Równanie różniczkowe 1 rzędu]]
+- [[Równanie różniczkowe n-tego rzędu]]
 
 # Podejście uniwersalne
 - [[Transformata Laplaca]]
