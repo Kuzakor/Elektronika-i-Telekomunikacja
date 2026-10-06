@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2026-03-10"
 ---
-#matematyka #analiza 
+#fizyka #elektrostatyka 
 # Definicja
 - [[Prawa dynamiki Newtona (Siły)|Siła]] działająca na dany obiekt opiera się na [[Pole elektryczne|polu elektrycznym]] w którym się znajduje oraz [[Gęstość ładunku elektrycznego|gęstości ładunku elektrycznego]] danego obiektu
 - [[Całki potrójne]]

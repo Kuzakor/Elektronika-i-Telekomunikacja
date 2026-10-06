@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2026-04-09"
 ---
-#matematyka #analiza 
+#fizyka #elektrostatyka 
 # Definicja
 - Można uznać że ładunek generuje dwa pola
 - [[Pole wektorowe]] zwane [[Natężenie pola elektrycznego|polem elektrycznym]]
