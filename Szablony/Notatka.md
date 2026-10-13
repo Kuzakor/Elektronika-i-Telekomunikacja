@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#matematyka #analiza 
+#Anteny_i_propagacja_fal #Propagacja 
 # Definicja

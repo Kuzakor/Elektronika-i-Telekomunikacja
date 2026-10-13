@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2026-10-05"
 ---
-#matematyka #analiza 
+#Anteny_i_propagacja_fal #Propagacja 
 # Definicja
 - [[Środwisko rozchodzenia się fali]]
 - Jest to [[Wektor|wektor]] który wskazuje kierunek w którym zmierza [[Energia kinetyczna i potencjalna|energia]] danej fali elektromagnetycznej.
