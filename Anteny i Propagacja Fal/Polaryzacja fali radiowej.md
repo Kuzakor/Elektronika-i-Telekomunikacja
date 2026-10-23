@@ -10,14 +10,22 @@ Czas stworzenia: "2026-10-05"
 	- LHE - Left-Hand Eliptical
 	- RHC - Right-Hand Circular
 	- RHE - Right-Hand Elipitical
+- delta phi - różnica przesunięc w [[Funkcje trygonometryczne|fazie]] [[Natężenie pola elektrycznego|pola elektrycznego]] i [[Siła Lorentza|pola magnetycznego]]
 ### Liniowa
 $$
 	|\vec{E}| \neq const \space \space\cap \space\space\vec{i_{E}} = const
+$$
+$$
+\Delta \phi = n\pi \space\space n \in N
 $$
 ### Kołowa
 $$
 	|\vec{E}| = const \space \space\cap \space\space\vec{i_{E}} \neq const
 $$
+$$
+\Delta \phi = 2\pi n \pm \frac{\pi}{2} \space\space n \in N
+$$
+
 ### Eliptyczna
 $$
 	|\vec{E}| \neq const \space \space\cap \space\space\vec{i_{E}} \neq const
