@@ -1,0 +1,6 @@
+---
+Czas stworzenia: "2026-11-10"
+---
+#informatyka #systemy_sieci 
+# Definicja
+- [[Podział usług telekomunikacyjnych|Usługi]] związane bezpośrednio z przesyłaniem danych przez sieć

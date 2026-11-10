@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#Anteny_i_propagacja_fal #Propagacja 
+#informatyka #systemy_sieci 
 # Definicja
