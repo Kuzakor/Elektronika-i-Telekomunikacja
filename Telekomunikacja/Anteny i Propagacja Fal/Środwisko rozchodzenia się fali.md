@@ -3,7 +3,7 @@ Czas stworzenia: "2026-10-05"
 ---
 #Anteny_i_propagacja_fal #Propagacja
 # Definicja
-- Środowisko rozchodzenia się fali definiują następujące wartości:
+- Środowisko rozchodzenia się [[Elektromagnetyczna fala płaska|fali]] definiują następujące wartości:
 	- [[Prawo Columba|przenikalność elektryczna]] 
 	- przenikalnośc magnetyczna
 	- przewodność właściwa (konduktywność)

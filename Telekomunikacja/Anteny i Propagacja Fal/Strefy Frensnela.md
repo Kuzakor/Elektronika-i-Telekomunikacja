@@ -3,7 +3,7 @@ Czas stworzenia: "2026-10-12"
 ---
 #Anteny_i_propagacja_fal #Propagacja 
 # Definicja
-- *Elpisoiidy Fresnela* to linie lączące antenę nadawczą z odbiorczą które są dłuższe niż odległość w lini prostej o połowe długości fali
+- *Elpisoiidy Fresnela* to linie lączące antenę nadawczą z odbiorczą które są dłuższe niż odległość w lini prostej o połowe długości [[Elektromagnetyczna fala płaska|fali]]
 $$
 \frac{\lambda}{2}
 $$

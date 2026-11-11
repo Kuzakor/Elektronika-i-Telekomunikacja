@@ -6,7 +6,7 @@ Czas stworzenia: "2026-11-10"
 - Model ten opisuje proces komunikacji w sieciach telekomunikacyjnych
 - Tylko elementy tej samej warstwy mogą z sobą "gadać".
 - Każda warstwa dodaje swój nagłówek (tzw. *enkapsulacja*)
-- [[TCP_IP]]
+- [[TCP]]
 # Warstwy (z góry na doł)
 1. *Aplikacji*
 2. *Prezentacji*

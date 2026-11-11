@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#informatyka #systemy_sieci 
+#informatyka #architektury_systemy
 # Definicja

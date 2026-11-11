@@ -7,7 +7,7 @@ Czas stworzenia: "2026-10-12"
 - [[Zespolona przenikalność elektryczna]]
 - [[Fala przyziemna]]
 # Wzory
-- *Dobry przewodnik* - mała podatnośc na wnikanie energi fali radiowej:
+- *Dobry przewodnik* - mała podatnośc na wnikanie energi [[Elektromagnetyczna fala płaska|fali]] radiowej:
 $$
 \frac{\epsilon_{w}}{60\lambda_{0} \sigma} \ll 1
 $$

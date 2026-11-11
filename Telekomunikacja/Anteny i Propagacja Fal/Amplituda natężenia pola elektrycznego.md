@@ -3,7 +3,7 @@ Czas stworzenia: "2026-10-06"
 ---
 #Anteny_i_propagacja_fal #Propagacja  
 # Definicja
-- Jest to maksymalna wartośc jaką osiągna [[Natężenie pola elektrycznego|natężenie pola elektrycznego]] w ciągu [[Okres i częstotliwość|okresu]] fali elektromagnetycznej
+- Jest to maksymalna wartośc jaką osiągna [[Natężenie pola elektrycznego|natężenie pola elektrycznego]] w ciągu [[Okres i częstotliwość|okresu]] [[Elektromagnetyczna fala płaska|fali]]
 # Wzór
 ### Przypadek [[Antena Izotopowa|anteny izotropowej]]
 $$

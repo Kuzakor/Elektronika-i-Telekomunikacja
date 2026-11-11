@@ -4,6 +4,7 @@ Czas stworzenia: "2026-10-12"
 #Anteny_i_propagacja_fal #Propagacja 
 # Definicja
 - Podobnie jak w przypadku klasycznych [[Fala stojąca|fal]] znanych z fizyki, fala radiowa się odbija.
+- [[Elektromagnetyczna fala płaska]]
 - [[Polaryzacja fali radiowej]]
 - [[Zespolona przenikalność elektryczna]]
 - [[Funkcje trygonometryczne]]

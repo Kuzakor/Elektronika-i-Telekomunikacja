@@ -4,7 +4,7 @@ Czas stworzenia: "2026-10-05"
 #Anteny_i_propagacja_fal #Propagacja 
 # Definicja
 - [[Środwisko rozchodzenia się fali]]
-- Jest to [[Wektor|wektor]] który wskazuje kierunek w którym zmierza [[Energia kinetyczna i potencjalna|energia]] danej fali elektromagnetycznej.
+- Jest to [[Wektor|wektor]] który wskazuje kierunek w którym zmierza [[Energia kinetyczna i potencjalna|energia]] danej [[Elektromagnetyczna fala płaska|fali]] elektromagnetycznej.
 - Jest on równy [[Iloczyn wektorowy|iloczynowi wektorowemu]] [[Natężenie pola elektrycznego|natężenia pola elektrycznego E]] oraz [[Prawo Biota-Savarta|natężenia pola magnetycznego H]].
 - [[Równania Maxwella]]
 - [[Prawo Ohma]] 

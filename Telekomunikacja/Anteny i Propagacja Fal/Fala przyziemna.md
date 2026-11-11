@@ -3,7 +3,7 @@ Czas stworzenia: "2026-10-12"
 ---
 #Anteny_i_propagacja_fal #Propagacja 
 # Definicja
-- Fala która propaguje się przy powierzchni ziemi
+- [[Elektromagnetyczna fala płaska]] która propaguje się przy powierzchni ziemi
 - [[Środwisko rozchodzenia się fali]] ma następujące
 $$
 	\epsilon = \epsilon_{w}\epsilon_{0} 

@@ -9,6 +9,7 @@ Czas stworzenia: "2026-10-22"
 - Prąd drenu (czyli jaki płynie przez tranzystor) zależy od poziomu nasyciania tranzysotra
 	- Tranzystor nienasycony -> prąd rośnie w raz z napięciem bramki
 	- Tranzystor nasycony -> prąd stablilzuje się do stałego poziomu
+- [[Model małosygnałowy tranzytora MOS]]
 - I jest opisany następującymi wzorami
 # Wzór
 ### Nienasycony (T)

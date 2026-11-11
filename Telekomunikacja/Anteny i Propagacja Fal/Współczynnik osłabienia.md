@@ -4,7 +4,7 @@ Czas stworzenia: "2026-10-22"
 #Anteny_i_propagacja_fal #Propagacja 
 # Definicja
 - Jest to ważna wartośc w [[Zależnośc Szulejkina-van der Pola (Fala powierzchniowa)|propoagacji fali powierzchniowej]].
-- Opisuje jak mocno tłumiona jest fala
+- Opisuje jak mocno tłumiona jest [[Elektromagnetyczna fala płaska|fala]]
 - Do jej opisu używa się tak zwanej *[[Liczby zespolone|zespolonej]] odległośći numerycznej*
 - [[Zespolona przenikalność elektryczna]]
 - [[Moduł liczby zespolonej]]
