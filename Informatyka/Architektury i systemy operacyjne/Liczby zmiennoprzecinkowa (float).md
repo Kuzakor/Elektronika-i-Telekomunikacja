@@ -14,7 +14,7 @@ $$
 $$
 - Gdzie *m* to mantysa a *w* to wykładnik
 # Zapis w pamięci
-- Pierwszy [[Bit|bit]] to bit znaku( 1 - -, 0 - +)
+- Pierwszy [[Bit|bit]] to [[Bit]] znaku( 1 - -, 0 - +)
 #### 32 bit
 - Kolejne osiem bitów to wykładnik+127
 - Kolejne 23 bity to mantysa

@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2026-03-10"
 ---
-#elektrostatyka #fizyka 
+#elektrodynamika #fizyka 
 # Definicja
 - W ciele n-wymiarowym rozłożone są ładunki, aby policzyć ładunek wypadkowy całego ciała korzystamy z [[Całka|całek]].
 - [[Funkcja]] gęstości ładunku opisana jest poprzez pochodną ładunku po ciele

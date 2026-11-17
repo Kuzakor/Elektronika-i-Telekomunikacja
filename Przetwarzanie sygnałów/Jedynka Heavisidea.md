@@ -6,7 +6,7 @@ Czas stworzenia: "2026-04-16"
 - Jest to najprostrzy możliwy [[Sygnał|sygnał]] opsiany następuącym wzorem
 # Wzór
 $$
-\mathbb{1} (t) = \begin{cases} 1, \space\space \space t>1 \\
+\mathbb{1} (t) = \begin{cases} 1, \space\space \space t>0  \\
 0, \space \space \space t < 0
 \end{cases}
 $$

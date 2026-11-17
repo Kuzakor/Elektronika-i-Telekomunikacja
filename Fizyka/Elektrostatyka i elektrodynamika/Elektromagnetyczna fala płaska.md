@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2026-11-11"
 ---
-#fizyka #elektrostatyka 
+#fizyka #elektrodynamika 
 # Definicja
 - [[Równania Maxwella]]
 - [[Parametry fali]]

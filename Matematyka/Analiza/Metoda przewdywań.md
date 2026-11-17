@@ -12,5 +12,5 @@ $$
 f(x) = e^{ax} [P(x)\cos(cx) +Q(x)\sin(cx)]
 $$
 # Procedura działania
-- Zgadujemy jaka funkcja będzie rozwiązaniem (z niewiadomymi wspolczynnikami) i podstawiamy do pełnego równania i szukamy wspołczynników
+- Zgadujemy jaka [[Funkcja]] będzie rozwiązaniem (z niewiadomymi wspolczynnikami) i podstawiamy do pełnego równania i szukamy wspołczynników
 ##### Ważne: Jeżeli zgadywana funkcja istnieje w [[Równanie różniczkowe jednorodne o stałych wspołczynnikach|rozwiązaniu jednorodnym]] to musimy nasze zgadniecie pomnożyć przez x, jeżeli dwukrotnie to x^2 etc.

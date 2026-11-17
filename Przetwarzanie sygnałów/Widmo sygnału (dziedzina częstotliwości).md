@@ -5,6 +5,9 @@ Czas stworzenia: "2026-06-06"
 # Definicja
 - Widmo [[Sygnał|sygnału]] to [[Funkcja|wykres]] słupkowy kolejnych amplitud (zwanych także *harmonicznymi*) rozwinięcia danego sygnału w [[Szereg Fouriera|szereg fouriera]] w [[Dziedzina|dziedzinie]] [[Okres i częstotliwość|częstotliwośći]]
 - [[Funkcje trygonometryczne]]
+- [[Transformata FT]]
+- [[Transformata DFT]]
+- [[Tranformata DTFT]]
 $$
 a_{n} = f(f) \space \space sinusy
 $$

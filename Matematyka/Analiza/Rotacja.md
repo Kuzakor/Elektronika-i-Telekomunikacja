@@ -5,7 +5,7 @@ Czas stworzenia: "2026-03-23"
 # Definicja
 - Rotacja to własność [[Pole wektorowe|pola wektorowego]] opisująca czy w danym punkcje występuje *wir*
 - Wir to miejsce w którym obiekt będzie kręcić się wokół własnej osi
-- Wektor tego obrotu jest prostopadły do pola więc opisujemy go [[Iloczyn wektorowy|iloczynem wektorowym]]
+- [[Wektor]] tego obrotu jest prostopadły do pola więc opisujemy go [[Iloczyn wektorowy|iloczynem wektorowym]]
 - [[Gradient]]
 - [[Pochodna cząstkowa]]
 - [[Wyznacznik macierzy]]

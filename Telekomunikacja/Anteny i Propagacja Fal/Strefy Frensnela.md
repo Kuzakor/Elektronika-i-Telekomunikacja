@@ -13,7 +13,7 @@ $$
 - *Obszary Fresnela* to obszary między tymi liniami
 - Najważniejsza jest *pierwszy strefa fresnela* (n=1) która musi być wolna od przeszkód (zachowywać się jak [[Wolna przestzeń propagacyjna]]) aby antena działała efektywnie.
 # Wzory
-- Promień pierwszej strefy fresnela w dowolnym punkcie na trasie nadajnik -> odbiornik
+- Promień pierwszej strefy fresnela w dowolnym punkcie na trasie [[Nadajnik]] -> [[Odbiornik]]
 $$
 r = \sqrt{ \frac{\lambda d_{1}d_{2}}{d} }
 $$

@@ -8,7 +8,7 @@ Czas stworzenia: "2026-05-21"
 - Jest to [[Funkcja zespolona|funkcja zespolona]] 
 - [[Liczby zespolone]]
 - [[Argument liczby zespolonej|Argument]] tej funkcjii opisuje przesunięcie w fazie powstałe po przejściu sygnału przez filtr
-- Na podstawie tej funkcji opiera się [[Charakterystyka filtra|charakterystyka danego filtra]] która pokazuje jak zachowuje się napięcie wyjściowe w decybelach
+- Na podstawie tej funkcji opiera się [[Charakterystyka filtra|charakterystyka danego filtra]] która pokazuje jak zachowuje się [[Napięcie]] wyjściowe w decybelach
 - Wyznacza się ją korzystając z [[Impedancja|impedancjii]]
 # Wzór
 $$

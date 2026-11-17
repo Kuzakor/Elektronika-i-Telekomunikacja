@@ -9,7 +9,7 @@ Czas stworzenia: "2026-10-06"
 - [[Prawo Biota-Savarta]]
 # Wzory
 $$
-\vec{E} = \text{pole elektryczne}
+\vec{E} = \text{[[Pole elektryczne]]}
 $$
 $$
 \vec{B} =\text{indukcja magentyczna}

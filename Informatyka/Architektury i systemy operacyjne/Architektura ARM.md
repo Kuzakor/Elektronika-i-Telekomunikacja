@@ -3,7 +3,7 @@ Czas stworzenia: "2026-11-11"
 ---
 #informatyka #architektury_systemy
 # Definicja
-- Architektura ARM charakteruzuje się niskim poborem mocy jak na moc obliczeniową
+- Architektura ARM charakteruzuje się niskim poborem mocy jak na [[Moc]] obliczeniową
 - Skrót to Advanced RISC Machine a RISC oznacza reduced instruction set computer czyli arm posiada mniej [[Rozkazy ASM x86|rozkazów]]
 # Różnice
 - Rozkazy na architekturze ARM w typowyh przypadkach zawierają 3 argumenty a nie 2 jak w x86.

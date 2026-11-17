@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2026-03-31"
 ---
-#fizyka #elektrostatyka 
+#fizyka #elektrodynamika 
 # Definicja
 - Jest to to samo co [[Natężenie pola elektrycznego|natężenie]] pola elektrycznego ale nie ma to związku z przenikalnoscią elektormagnetyczną ośrodka
 # Wzór

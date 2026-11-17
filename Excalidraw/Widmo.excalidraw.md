@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
-Sygnał
+[[Sygnał]]
  ^AvxPiQdQ
 
 Widmo ( sinusy )

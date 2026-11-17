@@ -25,7 +25,7 @@ Czas stworzenia: "2026-11-10"
 		1. Sieć międzynarodowa
 		2. Sieć krajowa dalekosiężna
 		3. Sieć rdzeniowa [[METRO]]/regionalna
-		4. Sięć METRO dostępowa
+		4. Sięć [[METRO]] dostępowa
 
 ### Płaska
 - Brak rozróżnienia poziomów, elementy komunikują się ze sobą bezpośrednio lub za pośrednicywem innych elementów sieci, które przekazują informację w tym samym poziomie.

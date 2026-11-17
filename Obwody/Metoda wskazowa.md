@@ -17,7 +17,7 @@ $$
 $$
 - Zamieniamy [[Elementy liniowe inercyjne|elementy inercyjne]] na ich odpowiednik w bloczach z [[Impedancja|impendacji (metoda wskazowa)]]
 - Rozwiązujemy obwód jak [[Metody rozwiązywania układów prądu stałego|obwód prądu stałego]]
-- Konwertujemy prąd/napięcie w postaci zespolonej na "normalne" wartości poprzez wzięcie części rzeczwistej
+- Konwertujemy prąd/[[Napięcie]] w postaci zespolonej na "normalne" wartości poprzez wzięcie części rzeczwistej
 $$
 \Re(\hat{i}(t)) = i(t)
 $$

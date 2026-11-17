@@ -1,7 +1,7 @@
 ---
 Czas stworzenia: "2025-09-13"
 ---
-#fizyka #elektrostatyka
+#fizyka #elektrodynamika
 # Definicja
 Kondensator składa się z dwóch płytek przechowujących ładunki. Do nich podłaczone jest [[Napięcie]] a między nimi znajduje się dowolna substancja. Znane są wzory na pojemność.
 ### Rysunek

@@ -3,7 +3,7 @@ Czas stworzenia: "2026-05-04"
 ---
 #matematyka #analiza 
 # Definicja
-- Szereg harmoniczny definiowany jest następującym wzorem.
+- [[Szereg]] harmoniczny definiowany jest następującym wzorem.
 - Jest to specyficzy przypadek [[Szereg Dirichleta|szeregu dirichleta]]
 - ### WAŻNE: NIE JEST ZBIEŻNY
 # Wzór

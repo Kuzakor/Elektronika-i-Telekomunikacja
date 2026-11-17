@@ -3,7 +3,7 @@ Czas stworzenia: "2026-10-13"
 ---
 #matematyka #podstawy 
 # Definicja
-- Jest to specyficzna funkcja używana cżęsto w przetwarzaniu [[Sygnał|sygnałów]]
+- Jest to specyficzna [[Funkcja]] używana cżęsto w przetwarzaniu [[Sygnał|sygnałów]]
 - [[Funkcje trygonometryczne]]
 # Wzór
 $$

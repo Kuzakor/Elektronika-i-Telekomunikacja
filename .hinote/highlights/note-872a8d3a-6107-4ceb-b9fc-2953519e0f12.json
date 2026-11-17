@@ -1,0 +1,22 @@
+{
+  "version": "2.0",
+  "lastModified": 1794909314087,
+  "highlights": {
+    "highlight-17e5e945-112d-4aac-9467-8bd45b04ad08": {
+      "text": "File comment",
+      "position": 0,
+      "created": 1794909314087,
+      "updated": 1794909314087,
+      "isVirtual": true,
+      "paragraphOffset": 0,
+      "comments": [
+        {
+          "id": "comment-1794909314086-dfckgad7t",
+          "content": "a",
+          "created": 1794909314086,
+          "updated": 1794909314086
+        }
+      ]
+    }
+  }
+}

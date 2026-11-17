@@ -10,4 +10,4 @@ Czas stworzenia: "2026-05-04"
 - [[Kryterium porównawcze II]]
 - [[Kryterium całkowe]]
 # Warunek konieczny
-- Jeżeli szereg jest zbieżny to jego [[Granica|granica]] jest równa 0.
+- Jeżeli [[Szereg]] jest zbieżny to jego [[Granica|granica]] jest równa 0.

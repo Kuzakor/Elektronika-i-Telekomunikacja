@@ -1,5 +1,5 @@
 ---
 Czas stworzenia: "{{date}}"
 ---
-#informatyka #architektury_systemy
+#telekomunikacja
 # Definicja

@@ -10,7 +10,7 @@ Czas stworzenia: "2026-05-05"
 	3. Konsultantów
 2. Stworzyć projekt silnika
 	1. Silnik będzie działał na wtrysku (bardziej niezawodne niż gaźnik)
-	2. Pojemność i moc silnika umiarkowana lecz na podobnym poziomie co współczesne samochody
+	2. Pojemność i [[Moc]] silnika umiarkowana lecz na podobnym poziomie co współczesne samochody
 	3. Piorytet niezawodności a nie mocy
 3. Stworzyć projekt reszty napędu
 	1. Skrzynia manulana 6 biegów
